@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HMY-COMPUTER</Machine>
+    <WindowsUser>何铭源</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>52afaf9f-9aa7-4c76-9eb3-a19ec279ab6a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=何铭源</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Desktop\123123\123123\bld\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Desktop\123123\123123\bin\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\block.js">
+      <PackagePath>js\block.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\click.js">
+      <PackagePath>js\click.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\gameState.js">
+      <PackagePath>js\gameState.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\interval.js">
+      <PackagePath>js\interval.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\mousemove.js">
+      <PackagePath>js\mousemove.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\obj.js">
+      <PackagePath>js\obj.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\specialblock\badblock.js">
+      <PackagePath>js\specialblock\badblock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\specialblock\blackblock.js">
+      <PackagePath>js\specialblock\blackblock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\specialblock\hidemouseblock.js">
+      <PackagePath>js\specialblock\hidemouseblock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\specialblock\reverseblock.js">
+      <PackagePath>js\specialblock\reverseblock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\specialblock\smallblock.js">
+      <PackagePath>js\specialblock\smallblock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\js\var.js">
+      <PackagePath>js\var.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\badblock.png">
+      <PackagePath>resourcepacks\images\badblock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\bg.png">
+      <PackagePath>resourcepacks\images\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\blackblock.png">
+      <PackagePath>resourcepacks\images\blackblock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\block.png">
+      <PackagePath>resourcepacks\images\block.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\help.png">
+      <PackagePath>resourcepacks\images\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\hideblock.png">
+      <PackagePath>resourcepacks\images\hideblock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\loading.gif">
+      <PackagePath>resourcepacks\images\loading.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\mouse .png">
+      <PackagePath>resourcepacks\images\mouse .png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\playericon.png">
+      <PackagePath>resourcepacks\images\playericon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\reverseblock.png">
+      <PackagePath>resourcepacks\images\reverseblock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\smallblock.png">
+      <PackagePath>resourcepacks\images\smallblock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\start.png">
+      <PackagePath>resourcepacks\images\start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\step1.png">
+      <PackagePath>resourcepacks\images\step1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\step2.png">
+      <PackagePath>resourcepacks\images\step2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\images\text.png">
+      <PackagePath>resourcepacks\images\text.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\music\bgm.mp3">
+      <PackagePath>resourcepacks\music\bgm.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resourcepacks\music\bgm.ogg">
+      <PackagePath>resourcepacks\music\bgm.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Desktop\123123\123123\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+D:\Desktop\123123\123123\bin\x64\Debug\ReverseMap\resources.pri
+D:\Desktop\123123\123123\bin\x64\Debug\AppxManifest.xml
+D:\Desktop\123123\123123\bin\x64\Debug\123123.build.appxrecipe
+D:\Desktop\123123\123123\bld\x64\Debug\123123.jsproj.CoreCompileInputs.cache
+D:\Desktop\123123\123123\bld\x64\Debug\ResourceHandlingTask.state
+D:\Desktop\123123\123123\bld\x64\Debug\priconfig.xml
+D:\Desktop\123123\123123\bld\x64\Debug\priconfig.xml.intermediate
+D:\Desktop\123123\123123\bld\x64\Debug\layout.resfiles
+D:\Desktop\123123\123123\bld\x64\Debug\layout.resfiles.intermediate
+D:\Desktop\123123\123123\bld\x64\Debug\resources.resfiles
+D:\Desktop\123123\123123\bld\x64\Debug\resources.resfiles.intermediate
+D:\Desktop\123123\123123\bld\x64\Debug\pri.resfiles
+D:\Desktop\123123\123123\bld\x64\Debug\pri.resfiles.intermediate
+D:\Desktop\123123\123123\bld\x64\Debug\qualifiers.txt
+D:\Desktop\123123\123123\bld\x64\Debug\qualifiers.txt.intermediate
+D:\Desktop\123123\123123\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Desktop\123123\123123\bld\x64\Debug\ProjectArchitectures.txt

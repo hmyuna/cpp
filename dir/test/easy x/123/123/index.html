@@ -1,0 +1,39 @@
+﻿<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link href="ico/ico.ico" rel="icon" type="image/x-icon" />
+		<link href="ico/ico.ico" rel="shortcut icon" type="image/x-icon" />
+		<title>别踩白块儿</title>
+	</head>
+	<body>
+		<div id="stage" style="margin: 0 auto;top:0px; width: 480px; height: 721px; vertical-align: middle" >
+			<!--何铭源@2017.1.31-->
+			<!--音乐-->
+			<audio id="music" style="display: none" loop="loop">
+				<!--…….ogg-->
+				<source src="resourcepacks/music/bgm.ogg" type="audio/ogg" />
+				<!--…….mp3-->
+				<source src="resourcepacks/music/bgm.mp3" type="audio/mpeg" />
+				<!--不支持H5-->
+				<embed src="music/bgm.mp3" />
+			</audio>
+			<!--画布-->
+			<canvas id="canvas" style="cursor: none" width="480" height="721" >
+				啊哦，游戏玩不成了哦。
+			</canvas>
+		</div>
+		<script src="_js/var.js"></script>
+		<script src="_js/block.js"></script>
+		<script src="_js/specialblock/badblock.js"></script>
+		<script src="_js/specialblock/reverseblock.js"></script>
+		<script src="_js/specialblock/blackblock.js"></script>
+		<script src="_js/specialblock/smallblock.js"></script>
+		<script src="_js/specialblock/hidemouseblock.js"></script>
+		<script src="_js/obj.js"></script>
+		<script src="_js/gameState.js"></script>
+		<script src="_js/click.js"></script>
+		<script src="_js/mousemove.js"></script>
+		<script src="_js/interval.js"></script>
+	</body>
+</html>
