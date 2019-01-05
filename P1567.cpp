@@ -7,7 +7,7 @@ int main() {
 	for(int i = 1; i <= n; i++){
 		cin >> tmp;
 		if(tmp > last){
-			ans++;123
+			ans++;
 			if(ans > Max) Max = ans;
 		}else{
 			ans = 1;
