@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**",
                 "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include",
                 "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32",
-                "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+                "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++",
+                "C:/Program Files (x86)/MinGW64/x86_64-w64-mingw32/include"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,7 +15,7 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.16299.0",
-            "compilerPath": "D:\\Program Files\\LLVM\\msbuild-bin\\cl.exe",
+            "compilerPath": "C:/Program Files/LLVM/bin/clang-cl.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64"

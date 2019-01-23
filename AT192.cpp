@@ -20,3 +20,4 @@ int main()
     cout << acm(m, n) << endl;
     return 0;
 }
+
