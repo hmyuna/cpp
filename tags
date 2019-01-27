@@ -4,127 +4,342 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+$.fn.fancybox	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^	};$/;"	c
+$container	blog/themes/landscape/source/js/script.js	/^  var $container = $('#container'),$/;"	v
+A	P1024.cpp	/^double A, B, C, D;$/;"	v
+B	P1024.cpp	/^double A, B, C, D;$/;"	v
+B	P1734.cpp	/^void B(){$/;"	f
+BigNum	P1009.cpp	/^	BigNum()$/;"	f	struct:BigNum
+BigNum	P1009.cpp	/^	BigNum(const char *num)$/;"	f	struct:BigNum
+BigNum	P1009.cpp	/^	BigNum(const int num)$/;"	f	struct:BigNum
+BigNum	P1009.cpp	/^struct BigNum$/;"	s	file:
+BigNum	P1045.cpp	/^	BigNum()$/;"	f	struct:BigNum
+BigNum	P1045.cpp	/^	BigNum(const char *num) { *this = num; }$/;"	f	struct:BigNum
+BigNum	P1045.cpp	/^	BigNum(int num) { *this = num; }$/;"	f	struct:BigNum
+BigNum	P1045.cpp	/^struct BigNum$/;"	s	file:
+BigNum	P2142.cpp	/^	BigNum()$/;"	f	struct:BigNum
+BigNum	P2142.cpp	/^	BigNum(const char *num) { *this = num; }$/;"	f	struct:BigNum
+BigNum	P2142.cpp	/^	BigNum(int num) { *this = num; }$/;"	f	struct:BigNum
+BigNum	P2142.cpp	/^struct BigNum$/;"	s	file:
+C	P1024.cpp	/^double A, B, C, D;$/;"	v
+CREAT	P2068.cpp	/^void CREAT(int u, int l, int r)$/;"	f
+CREAT	P3372-2.cpp	/^void CREAT(int u, int l, int r)$/;"	f
+CREAT	P3372.cpp	/^void CREAT(int u, int l, int r)$/;"	f
+D	P1024.cpp	/^double A, B, C, D;$/;"	v
 Dis	P1744.cpp	/^double Dis(int xx, int yy)$/;"	f
+Draw	P1538.cpp	/^string s, Draw[10] = {"-|| ||-", "  |  | ", "- |-| -",$/;"	v
+E	P1348.cpp	/^int S, E, ans = 0;$/;"	v
 F	T42830.cpp	/^int F(int a)$/;"	f
 For	P1036.cpp	3;"	d	file:
+H	P2639.cpp	/^int H;$/;"	v
 L	P1645.cpp	/^int n, l, r, s, L = MAXN, R = -MAXN;$/;"	v
+L	P3903.cpp	/^bool L = 0;$/;"	v
+Left	P2678.cpp	/^int Left, Right, mid;$/;"	v
+M	P1182.cpp	/^long long n, M, a[100001];$/;"	v
 M	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+MAX	asd.cpp	10;"	d	file:
+MAX1	asd.cpp	12;"	d	file:
+MAXN	P1045.cpp	/^const int MAXN = 100001;$/;"	v
 MAXN	P1645.cpp	2;"	d	file:
+MAXN	P1760.cpp	/^const int MAXN = 5005;$/;"	v
+MAXN	P2142.cpp	/^const int MAXN = 100001;$/;"	v
+MIN	CF393A.cpp	/^int MIN(int a, int b, int c, int d){$/;"	f
+MIN	asd.cpp	9;"	d	file:
+MIN1	asd.cpp	11;"	d	file:
+MODIFY	P2068.cpp	/^void MODIFY(int u, int l, int r, ll dt)$/;"	f
+MODIFY	P3372-2.cpp	/^void MODIFY(int u, int l, int r, long long dt)$/;"	f
+MODIFY	P3372.cpp	/^void MODIFY(int u, int l, int r, ll dt)$/;"	f
 Max	P1420.cpp	/^int Max = -1, ans, n, t, t1;$/;"	v
+Max	P1434.cpp	/^int Max(int a, int b){$/;"	f
 Max	P1567.cpp	/^int ans = 1, n, last, tmp, Max = -1;$/;"	v
+Max	P1781.cpp	/^int Max = 0;$/;"	v
+Node	P1158.cpp	/^struct Node$/;"	s	file:
 P	P1036.cpp	/^bool P(int x){$/;"	f
 P	P1304.cpp	/^bool P(int a){$/;"	f
+Per	P1051.cpp	/^struct Per$/;"	s	file:
+Per	P1104.cpp	/^struct Per$/;"	s	file:
+Person	P1068.cpp	/^struct Person$/;"	s	file:
+Point	P1443.cpp	/^struct Point$/;"	s	file:
+Point	P2036.cpp	/^struct Point{$/;"	s	file:
+Pow	P1045.cpp	/^BigNum Pow(BigNum b, BigNum p, BigNum k)$/;"	f
+Pow	P1226.cpp	/^long long Pow(T b, T p, T k)$/;"	f
+QUERY	P2068.cpp	/^void QUERY(int u, int l, int r)$/;"	f
+QUERY	P3372-2.cpp	/^void QUERY(int u, int l, int r)$/;"	f
+QUERY	P3372.cpp	/^void QUERY(int u, int l, int r)$/;"	f
 R	P1645.cpp	/^int n, l, r, s, L = MAXN, R = -MAXN;$/;"	v
-S	P1449.cpp	/^stack<int> S;$/;"	v
+Right	P2678.cpp	/^int Left, Right, mid;$/;"	v
+S	P1348.cpp	/^int S, E, ans = 0;$/;"	v
+S	P1449.cpp	/^stack<double> S;$/;"	v
 S	P2347.cpp	/^std::bitset<1010> S;$/;"	v
+SEG	P2068.cpp	/^struct SEG$/;"	s	file:
+SEG	P3372-2.cpp	/^struct SEG$/;"	s	file:
+SEG	P3372.cpp	/^struct SEG$/;"	s	file:
+SIZE	P1719.cpp	/^const int SIZE = 120;$/;"	v
+STRMIN	P1781.cpp	/^int STRMIN(string a, string b)$/;"	f
+Size	P3955.cpp	/^long long b[1001], x[1001], tmp[1001], Size[1001];$/;"	v
 V	P1049.cpp	/^int V, n, v[10001], f[10001];$/;"	v
 V	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
 X	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
+X1	P1158.cpp	/^int n, X1, Y1, X2, Y2;$/;"	v
+X2	P1158.cpp	/^int n, X1, Y1, X2, Y2;$/;"	v
 Y	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
+Y1	P1158.cpp	/^int n, X1, Y1, X2, Y2;$/;"	v
+Y2	P1158.cpp	/^int n, X1, Y1, X2, Y2;$/;"	v
 YES	T42830.cpp	/^int YES = 0;$/;"	v
+_	CF393A.cpp	/^char _;$/;"	v
 _	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
 __	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
 ___	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
+a	AT1515.cpp	/^int a, b, c, d;$/;"	v
+a	CF1080A.cpp	/^int a, b;$/;"	v
+a	CF1A.cpp	/^long long a, n, m;$/;"	v
+a	CF29A.cpp	/^int a[101], x[101];$/;"	v
+a	CF431A.cpp	/^int a[5], sum = 0;$/;"	v
+a	CF509A.cpp	/^int a[15][15];$/;"	v
+a	CF802M.cpp	/^int a[2201];$/;"	v
+a	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
+a	P1020.cpp	/^int a[maxn];$/;"	v
 a	P1036.cpp	/^int a[21], n, m, ans = 0;$/;"	v
 a	P1048.cpp	/^int f[1288071], t, m, a[3043], b[3043];$/;"	v
-a	P1070.cpp	/^int f[1001], b[1001], a[1001][1001]; $/;"	v
-a	P1077.cpp	/^int f[1001][1001], n, m, a[101];$/;"	v
+a	P1051.cpp	/^} a[101];$/;"	v	typeref:struct:Per
+a	P1068.cpp	/^} a[10001];$/;"	v	typeref:struct:Person
+a	P1070.cpp	/^int f[1001], b[1001], a[1001][1001];$/;"	v
 a	P1090.cpp	/^int n, a[100001], ans = 0;$/;"	v
+a	P1094.cpp	/^int a[30001], l, r;$/;"	v
 a	P1115.cpp	/^int n, f[100001], a[200001], ans = -10001;$/;"	v
 a	P1125.cpp	/^char a[101];$/;"	v
 a	P1146.cpp	/^int n, a[101];$/;"	v
-a	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
-a	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+a	P1152.cpp	/^int a[1001], n, t, last;$/;"	v
+a	P1182.cpp	/^long long n, M, a[100001];$/;"	v
+a	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
+a	P1316.cpp	/^int n, m, a[100001];$/;"	v
+a	P1317.cpp	/^int a[1001], n, b[1001], t = 0, ans = 0;$/;"	v
+a	P1328.cpp	/^int a[201], b[201];$/;"	v
+a	P1434.cpp	/^int a[105][105];$/;"	v
 a	P1469.cpp	/^int a[10000001], n, t;$/;"	v
+a	P1474.cpp	/^long long f[10001] = {1}, a[31];$/;"	v
 a	P1482.cpp	/^int a, b, c, d;$/;"	v
+a	P1508.cpp	/^int a[201][201];$/;"	v
+a	P1563.cpp	/^int a[100005];$/;"	v
+a	P1568.cpp	/^int a[1001][3], b[1001][3];$/;"	v
+a	P1571.cpp	/^int n, m, ans, a[100001], b[100001];$/;"	v
+a	P1577.cpp	/^int a[100001];$/;"	v
 a	P1597.cpp	/^char a, b;$/;"	v
 a	P1614.cpp	/^int a[3001], sum[3001];$/;"	v
 a	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 a	P1664.cpp	/^int n, t = 0, a, d = 0, m = 0;$/;"	v
 a	P1720.cpp	/^long long a, b, c;$/;"	v
+a	P1734.cpp	/^int a[1001];$/;"	v
+a	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
 a	P1765.cpp	/^string a;$/;"	v
+a	P1803.cpp	/^competition a[1000001];$/;"	v
+a	P1824.cpp	/^int n, c, a[1000001];$/;"	v
+a	P1855.cpp	/^int a[1001], b[1001];$/;"	v
 a	P1867.cpp	/^double x = 10, a, b;$/;"	v
+a	P1873.cpp	/^long long a[1000001];$/;"	v
 a	P1888.cpp	/^int a[4];$/;"	v
 a	P1897.cpp	/^int n,a,ans,max;$/;"	v
+a	P1908.cpp	/^int a[500001], t[500001], n;$/;"	v
+a	P1926.cpp	/^int a[10001], b[10001], t[10001], f[10001];$/;"	v
+a	P1957.cpp	/^int a, b;$/;"	v
+a	P1968.cpp	/^int n, a;$/;"	v
 a	P2006.cpp	/^int a[30010], b[30010];$/;"	v
+a	P2036.cpp	/^Point a[11];$/;"	v
 a	P2043.cpp	/^int a[10001];$/;"	v
+a	P2068.cpp	/^ll a[100001];$/;"	v
+a	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
 a	P2141.cpp	/^int used[100001] = {}, ans = 0, n, a[100001];$/;"	v
+a	P2142.cpp	/^BigNum a, b;$/;"	v
 a	P2347.cpp	/^int a[10], w[10] = {1, 2, 3, 5, 10, 20};$/;"	v
+a	P2430.cpp	/^int a[5003], f[5003], c[5003], v[5003];$/;"	v
+a	P2440.cpp	/^int a[100001], cnt = 0, l, r;$/;"	v
+a	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
 a	P2911.cpp	/^int a, b, c;$/;"	v
+a	P3368.cpp	/^int a[1000001];$/;"	v
+a	P3372-2.cpp	/^long long a[100001], sum[100001];$/;"	v
+a	P3372.cpp	/^ll a[100001];$/;"	v
 a	P3717.cpp	/^bool a[10001][10001];$/;"	v
+a	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
+a	P3951.cpp	/^long long a, b;$/;"	v
 a	P3954.cpp	/^int a, b, c, ans;$/;"	v
+a	P5019.cpp	/^int n, a[1000001], ans = 0;$/;"	v
 a	T42830.cpp	/^long long a, b;$/;"	v
+a	blog/add_blog.cpp	/^char *a;$/;"	v
+a	test.cpp	/^int a[1000001];$/;"	v
+a1	AT1515.cpp	/^double a1, a2;$/;"	v
+a1	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
+a2	AT1515.cpp	/^double a1, a2;$/;"	v
+a2	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
+acm	AT192.cpp	/^long long acm(int m, int n)$/;"	f
 add	P1023.cpp	/^void add(int a, int b)$/;"	f
+add	P3374-2.cpp	/^void add(int x, int k)$/;"	f
 addedge	P1645.cpp	/^void addedge(int a, int b, int c){$/;"	f
 addedge	P1744.cpp	/^void addedge(int a, int b, double c){$/;"	f
 addedge	P3366.cpp	/^void addedge(int a, int b, int c)$/;"	f
 addedge	P3905.cpp	/^void addedge(int a, int b, int c){$/;"	f
+ans	CF1080A.cpp	/^int ans = 0;$/;"	v
+ans	CF632A.cpp	/^long long n, m, cnt, ans;$/;"	v
+ans	CF802M.cpp	/^int n, k, ans = 0;$/;"	v
+ans	P1009.cpp	/^BigNum ans = 0, t = 1;$/;"	v
+ans	P1020.cpp	/^int ans = 0;$/;"	v
+ans	P1025.cpp	/^int n, k, ans = 0;$/;"	v
 ans	P1036.cpp	/^int a[21], n, m, ans = 0;$/;"	v
 ans	P1062.cpp	/^unsigned long long ans;$/;"	v
+ans	P1068.cpp	/^int ans = 0;$/;"	v
 ans	P1090.cpp	/^int n, a[100001], ans = 0;$/;"	v
+ans	P1094.cpp	/^int w, n, ans;$/;"	v
 ans	P1115.cpp	/^int n, f[100001], a[200001], ans = -10001;$/;"	v
+ans	P1130.cpp	/^int ans, n, m, dp[2010][2010], t[2010][2010];$/;"	v
 ans	P1150.cpp	/^int n, k, ans = 0, t;$/;"	v
 ans	P1179.cpp	/^int l, r, ans = 0;$/;"	v
 ans	P1181.cpp	/^int t, n, m, ans = 1, tmp = 0;$/;"	v
-ans	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
-ans	P1308.cpp	/^int ans = 0, tmp = 0, p;$/;"	v
+ans	P1190.cpp	/^int s[100001], ans;$/;"	v
+ans	P1223.cpp	/^double ans;$/;"	v
+ans	P1317.cpp	/^int a[1001], n, b[1001], t = 0, ans = 0;$/;"	v
+ans	P1348.cpp	/^int S, E, ans = 0;$/;"	v
+ans	P1387.cpp	/^int n, m, f[101][101], ans = -1;$/;"	v
 ans	P1420.cpp	/^int Max = -1, ans, n, t, t1;$/;"	v
-ans	P1449.cpp	/^int ans;$/;"	v
+ans	P1434.cpp	/^int n, m, ans;$/;"	v
+ans	P1443.cpp	/^int ans[401][401];$/;"	v
 ans	P1451.cpp	/^int m, n, ans = 0;$/;"	v
+ans	P1510.cpp	/^int ans = -1;$/;"	v
+ans	P1540.cpp	/^int n, m, ans = 0;$/;"	v
 ans	P1554.cpp	/^int ans[11];$/;"	v
 ans	P1567.cpp	/^int ans = 1, n, last, tmp, Max = -1;$/;"	v
+ans	P1571.cpp	/^int n, m, ans, a[100001], b[100001];$/;"	v
 ans	P1596.cpp	/^int g[101][101], m, n, ans = 0;$/;"	v
 ans	P1597.cpp	/^int ans[4];$/;"	v
 ans	P1614.cpp	/^int n, m, ans = 100000000;$/;"	v
 ans	P1706.cpp	/^int n, used[15], ans[15];$/;"	v
+ans	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
+ans	P1760.cpp	/^bign ans = 1, t = 2;$/;"	v
 ans	P1765.cpp	/^int ans;$/;"	v
+ans	P1803.cpp	/^int ans = 0;$/;"	v
+ans	P1855.cpp	/^int ans = -1;$/;"	v
 ans	P1897.cpp	/^int n,a,ans,max;$/;"	v
+ans	P1969.cpp	/^int ans = 0, last = 0, t;$/;"	v
+ans	P2068.cpp	/^ll ans = 0;$/;"	v
 ans	P2089.cpp	/^int t, ans = 0;$/;"	v
 ans	P2141.cpp	/^int used[100001] = {}, ans = 0, n, a[100001];$/;"	v
 ans	P2666.cpp	/^int n, ans = 0;$/;"	v
 ans	P2669.cpp	/^int ans = 0, k, i;$/;"	v
 ans	P2676.cpp	/^int tall[20001], b, n, ans = 0;$/;"	v
+ans	P2708.cpp	/^int ans;$/;"	v
 ans	P2788.cpp	/^int ans = 0, t;$/;"	v
 ans	P2956.cpp	/^int t1, t2, t3, t4, ans = 0;$/;"	v
+ans	P3372-2.cpp	/^long long ans = 0;$/;"	v
+ans	P3372.cpp	/^ll ans = 0;$/;"	v
 ans	P3741.cpp	/^int ans;$/;"	v
+ans	P3903.cpp	/^int ans = 1;$/;"	v
 ans	P3954.cpp	/^int a, b, c, ans;$/;"	v
 ans	P3984.cpp	/^int last, tmp, ans;$/;"	v
+ans	P5019.cpp	/^int n, a[1000001], ans = 0;$/;"	v
 ans_s1	P1548.cpp	/^int l, m, ans_s1, ans_s2;$/;"	v
 ans_s2	P1548.cpp	/^int l, m, ans_s1, ans_s2;$/;"	v
+ansa	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
+ansb	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
+area	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
+b	AT1515.cpp	/^int a, b, c, d;$/;"	v
+b	CF1080A.cpp	/^int a, b;$/;"	v
+b	P1045.cpp	/^BigNum b, p, k;$/;"	v
 b	P1048.cpp	/^int f[1288071], t, m, a[3043], b[3043];$/;"	v
-b	P1070.cpp	/^int f[1001], b[1001], a[1001][1001]; $/;"	v
-b	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
+b	P1070.cpp	/^int f[1001], b[1001], a[1001][1001];$/;"	v
+b	P1226.cpp	/^long long b, p, k;$/;"	v
+b	P1317.cpp	/^int a[1001], n, b[1001], t = 0, ans = 0;$/;"	v
 b	P1321.cpp	/^int g, b;$/;"	v
+b	P1328.cpp	/^int a[201], b[201];$/;"	v
 b	P1482.cpp	/^int a, b, c, d;$/;"	v
+b	P1563.cpp	/^string b[100005];$/;"	v
+b	P1568.cpp	/^int a[1001][3], b[1001][3];$/;"	v
+b	P1571.cpp	/^int n, m, ans, a[100001], b[100001];$/;"	v
 b	P1597.cpp	/^char a, b;$/;"	v
 b	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 b	P1720.cpp	/^long long a, b, c;$/;"	v
+b	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
+b	P1855.cpp	/^int a[1001], b[1001];$/;"	v
 b	P1867.cpp	/^double x = 10, a, b;$/;"	v
+b	P1926.cpp	/^int a[10001], b[10001], t[10001], f[10001];$/;"	v
+b	P1957.cpp	/^int a, b;$/;"	v
 b	P2006.cpp	/^int a[30010], b[30010];$/;"	v
+b	P2036.cpp	/^    int s, b;$/;"	m	struct:Point	file:
+b	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
+b	P2142.cpp	/^BigNum a, b;$/;"	v
 b	P2676.cpp	/^int tall[20001], b, n, ans = 0;$/;"	v
 b	P2911.cpp	/^int a, b, c;$/;"	v
+b	P3951.cpp	/^long long a, b;$/;"	v
 b	P3954.cpp	/^int a, b, c, ans;$/;"	v
+b	P3955.cpp	/^long long b[1001], x[1001], tmp[1001], Size[1001];$/;"	v
 b	T42830.cpp	/^long long a, b;$/;"	v
-c	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
+b	blog/add_blog.cpp	/^char b[1001] = {'h', 'e', 'x', 'o', ' ', 'n', 'e', 'w', ' ', 'p', 'o', 's', 't', ' '};$/;"	v
+ban	P1051.cpp	/^    int qi, ban, lun;$/;"	m	struct:Per	file:
+begin	P1145.cpp	/^int i, flag, k, m, begin;$/;"	v
+bfs	P1443.cpp	/^int bfs(int sx, int sy){$/;"	f
+bign	P1760.cpp	/^	bign()$/;"	f	struct:bign
+bign	P1760.cpp	/^	bign(const char *num) { *this = num; }$/;"	f	struct:bign
+bign	P1760.cpp	/^	bign(int num) { *this = num; }$/;"	f	struct:bign
+bign	P1760.cpp	/^struct bign$/;"	s	file:
+buf	test.cpp	/^char buf[1 << 21], *p1 = buf, *p2 = buf;$/;"	v
+c	AT1515.cpp	/^int a, b, c, d;$/;"	v
 c	P1482.cpp	/^int a, b, c, d;$/;"	v
+c	P1510.cpp	/^int v, n, c;$/;"	v
 c	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 c	P1720.cpp	/^long long a, b, c;$/;"	v
+c	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
+c	P1824.cpp	/^int n, c, a[1000001];$/;"	v
+c	P2430.cpp	/^int a[5003], f[5003], c[5003], v[5003];$/;"	v
 c	P2911.cpp	/^int a, b, c;$/;"	v
 c	P2955.cpp	/^string c;$/;"	v
+c	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
 c	P3954.cpp	/^int a, b, c, ans;$/;"	v
+cc	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
+ch	P1015.cpp	/^unsigned long long ch(char a)$/;"	f
+ch	P1981.cpp	/^char ch = 0, xg;$/;"	v
+changeIn	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^		},$/;"	m	class:F.transitions
+changeIn	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^(c.opacity=0.1));b.wrap.animate(c,{duration:"none"===d?0:a.closeSpeed,easing:a.closeEasing,step:e?this.step:null,complete:b._afterZoomOut})},changeIn:function(){var a=b.current,d=a.nextEffect,e=a.pos,c={opacity:1},f=b.direction,g;e.opacity=0.1;"elastic"===d&&(g="down"===f||"up"===f?"top":"left","down"===f||"right"===f?(e[g]=x(m(e[g])-200),c[g]="+=200px"):(e[g]=x(m(e[g])+200),c[g]="-=200px"));"none"===d?b._afterZoomIn():b.wrap.css(e).animate(c,{duration:a.nextSpeed,easing:a.nextEasing,complete:b._afterZoomIn})},$/;"	m	class:b.transitions
+changeOut	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^		},$/;"	m	class:F.transitions
+check	P1145.cpp	/^int check(int T)$/;"	f
+check	P1182.cpp	/^int check(int T)$/;"	f
+check	P1577.cpp	/^bool check(int x)$/;"	f
+check	P1873.cpp	/^bool check(long long x){$/;"	f
+check	P2440.cpp	/^int check(int m)$/;"	f
+check	P2678.cpp	/^int check(int x){$/;"	f
+cj	P1981.cpp	/^long long shu, sum = 0, cj;$/;"	v
+clean	P1045.cpp	/^	void clean()$/;"	f	struct:BigNum
+clean	P1760.cpp	/^	void clean()$/;"	f	struct:bign
+clean	P2142.cpp	/^	void clean()$/;"	f	struct:BigNum
+cmp	P1068.cpp	/^bool cmp(Person x, Person y)$/;"	f
+cmp	P1104.cpp	/^bool cmp(Per a, Per b){$/;"	f
+cmp	P1158.cpp	/^bool cmp(Node x, Node y)$/;"	f
+cmp	P1803.cpp	/^bool cmp(competition a, competition b){$/;"	f
 cmp	P2676.cpp	/^int cmp(int a, int b){$/;"	f
+cnt	CF632A.cpp	/^long long n, m, cnt, ans;$/;"	v
 cnt	P1320.cpp	/^int cnt, f = 1, l = 0;$/;"	v
 cnt	P1645.cpp	/^int head[5001], nxt[50001], ed[50001], value[50001], cnt = 0;$/;"	v
 cnt	P1744.cpp	/^int head[101], nxt[2001], ed[2001], cnt = 0;$/;"	v
+cnt	P2440.cpp	/^int a[100001], cnt = 0, l, r;$/;"	v
 cnt	P3366.cpp	/^int head[5001], nxt[400001], ed[400001], value[400001], cnt = 0;$/;"	v
 cnt	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+competition	P1803.cpp	/^struct competition$/;"	s	file:
 cost	P1023.cpp	/^int x, n, cost;$/;"	v
 cur	P1319.cpp	/^int cur = 0, n, sum = 0, t, f = 0;$/;"	v
+d	AT1515.cpp	/^int a, b, c, d;$/;"	v
+d	P1104.cpp	/^    int y, m, d;$/;"	m	struct:Per	file:
+d	P1158.cpp	/^} d[100005];$/;"	v	typeref:struct:Node
 d	P1482.cpp	/^int a, b, c, d;$/;"	v
 d	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 d	P1664.cpp	/^int n, t = 0, a, d = 0, m = 0;$/;"	v
 d	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+d	P2678.cpp	/^int d[500001];$/;"	v
 d	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
+dd	asd.cpp	/^int mz[11]={0,523,587,659,698,784,880,988,1046,1175},shu,dd;$/;"	v
+defaults	blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js	/^	F.helpers.buttons = {$/;"	p	class:F.helpers.buttons
+defaults	blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js	/^	F.helpers.media = {$/;"	p	class:F.helpers.media
+defaults	blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js	/^	F.helpers.thumbs = {$/;"	p	class:F.helpers.thumbs
+defaults	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^	F.helpers.overlay = {$/;"	p	class:F.helpers.overlay
+defaults	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^	F.helpers.title = {$/;"	p	class:F.helpers.title
+defaults	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^changeOut:function(){var a=b.previous,d=a.prevEffect,e={opacity:0.1},c=b.direction;"elastic"===d&&(e["down"===c||"up"===c?"top":"left"]=("up"===c||"left"===c?"-":"+")+"=200px");a.wrap.animate(e,{duration:"none"===d?0:a.prevSpeed,easing:a.prevEasing,complete:function(){f(this).trigger("onReset").remove()}})}};b.helpers.overlay={defaults:{closeClick:!0,speedOut:200,showEarly:!0,css:{},locked:!t,fixed:!0},overlay:null,fixed:!1,el:f("html"),create:function(a){var d;a=f.extend({},this.defaults,a);this.overlay&&$/;"	p	class:b.helpers.overlay
+defaults	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^f(this).css("position")&&!f(this).hasClass("fancybox-overlay")&&!f(this).hasClass("fancybox-wrap")}).addClass("fancybox-margin"),this.el.addClass("fancybox-margin"),this.scrollV=q.scrollTop(),this.scrollH=q.scrollLeft(),this.el.addClass("fancybox-lock"),q.scrollTop(this.scrollV).scrollLeft(this.scrollH));this.open(a)},onUpdate:function(){this.fixed||this.update()},afterClose:function(a){this.overlay&&!b.coming&&this.overlay.fadeOut(a.speedOut,f.proxy(this.close,this))}};b.helpers.title={defaults:{type:"float",$/;"	p	class:b.helpers.title
+dfs	P1025.cpp	/^void dfs(int u, int last, int sum){$/;"	f
 dfs	P1030.cpp	/^void dfs(string a, string b){$/;"	f
 dfs	P1036.cpp	/^void dfs(int u, int sum, int t) {$/;"	f
 dfs	P1451.cpp	/^void dfs(int x, int y){$/;"	f
@@ -135,48 +350,94 @@ dis	P1645.cpp	/^int dis[5001], inque[5001];$/;"	v
 dis	P1744.cpp	/^double dis[101], value[2001];$/;"	v
 dis	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
 dis	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+dis1	P1158.cpp	/^	int dis1, dis2;$/;"	m	struct:Node	file:
+dis2	P1158.cpp	/^	int dis1, dis2;$/;"	m	struct:Node	file:
+dp	P1130.cpp	/^int ans, n, m, dp[2010][2010], t[2010][2010];$/;"	v
+dp	P1434.cpp	/^int dp(int x, int y)$/;"	f
 dx	P1162.cpp	/^int dx[] = {0, 0, 0, 1, -1};$/;"	v
+dx	P1443.cpp	/^int dx[11] = {0, 2, -2, 2, -2, -1, 1, -1, 1};$/;"	v
 dy	P1162.cpp	/^int dy[] = {0, 1, -1, 0, 0};$/;"	v
+dy	P1443.cpp	/^int dy[11] = {0, 1, 1, -1, -1, 2, 2, -2, -2};$/;"	v
+e	CF393A.cpp	/^int n, i, e, t;$/;"	v
 e	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 e	P1830.cpp	/^int v[111][111],e[111][111];$/;"	v
 ed	P1645.cpp	/^int head[5001], nxt[50001], ed[50001], value[50001], cnt = 0;$/;"	v
 ed	P1744.cpp	/^int head[101], nxt[2001], ed[2001], cnt = 0;$/;"	v
 ed	P3366.cpp	/^int head[5001], nxt[400001], ed[400001], value[400001], cnt = 0;$/;"	v
 ed	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+f	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
+f	P1015.cpp	/^bool f(unsigned long long a)$/;"	f
+f	P1020.cpp	/^int f[maxn];$/;"	v
+f	P1024.cpp	/^double f(double t)$/;"	f
 f	P1044.cpp	/^int n, f[10001];$/;"	v
 f	P1048.cpp	/^int f[1288071], t, m, a[3043], b[3043];$/;"	v
 f	P1049.cpp	/^int V, n, v[10001], f[10001];$/;"	v
+f	P1057.cpp	/^int n, m, f[101][101];$/;"	v
 f	P1060.cpp	/^int n, m, w[30], v[30], f[50001];$/;"	v
-f	P1070.cpp	/^int f[1001], b[1001], a[1001][1001]; $/;"	v
-f	P1077.cpp	/^int f[1001][1001], n, m, a[101];$/;"	v
+f	P1070.cpp	/^int f[1001], b[1001], a[1001][1001];$/;"	v
+f	P1077.cpp	/^int f[101][101];$/;"	v
+f	P1095.cpp	/^int f[300001]; \/\/琛ㄧずf$/;"	v
 f	P1115.cpp	/^int n, f[100001], a[200001], ans = -10001;$/;"	v
 f	P1164.cpp	/^int v[10001],f[10001];$/;"	v
-f	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+f	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
 f	P1319.cpp	/^int cur = 0, n, sum = 0, t, f = 0;$/;"	v
 f	P1320.cpp	/^int cnt, f = 1, l = 0;$/;"	v
+f	P1359.cpp	/^int f[201],n, x;$/;"	v
+f	P1387.cpp	/^int n, m, f[101][101], ans = -1;$/;"	v
+f	P1434.cpp	/^int f[105][105];$/;"	v
+f	P1474.cpp	/^long long f[10001] = {1}, a[31];$/;"	v
 f	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+f	P1510.cpp	/^int f[10001];$/;"	v
 f	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
+f	P1734.cpp	/^int f[1001];$/;"	v
+f	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
+f	P1824.cpp	/^bool f(int x)$/;"	f
+f	P1855.cpp	/^int f[1001][1001];$/;"	v
+f	P1926.cpp	/^int a[10001], b[10001], t[10001], f[10001];$/;"	v
+f	P1968.cpp	/^double f[101][3];$/;"	v
 f	P2006.cpp	/^int k, n, m, f;$/;"	v
 f	P2192.cpp	/^int n, f = 0, z = 0, t;$/;"	v
 f	P2239.cpp	/^int f(int n, int i, int j) {$/;"	f
+f	P2430.cpp	/^int a[5003], f[5003], c[5003], v[5003];$/;"	v
+f	P2626.cpp	/^long long f[49], n;$/;"	v
+f	P2639.cpp	/^bool f[45001];$/;"	v
+f	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
 f	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
-fir	P1162.cpp	/^bool fir = 1;$/;"	v
+f.fn.fancybox	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^"appendTo"](c)}}};f.fn.fancybox=function(a){var d,e=f(this),c=this.selector||"",l=function(g){var h=f(this).blur(),k=d,l,m;g.ctrlKey||g.altKey||g.shiftKey||g.metaKey||h.is(".fancybox-wrap")||(l=a.groupAttr||"data-fancybox-group",m=h.attr(l),m||(l="rel",m=h.get(0)[l]),m&&""!==m&&"nofollow"!==m&&(h=c.length?f(c):e,h=h.filter("["+l+'="'+m+'"]'),k=h.index(this)),a.index=k,!1!==b.open(h,a)&&g.preventDefault())};a=a||{};d=a.index||0;c&&!1!==a.live?p.undelegate(c,"click.fb-start").delegate(c+":not('.fancybox-item, .fancybox-nav')",$/;"	c
+find	P3374-2.cpp	/^int find(int x)$/;"	f
+first	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
+flag	P1145.cpp	/^int i, flag, k, m, begin;$/;"	v
+flag	P2626.cpp	/^bool flag = 1;$/;"	v
+flag	P2640.cpp	/^int flag = 1;$/;"	v
 fxx	P1596.cpp	/^int fxx[9]={0,-1,-1,-1,0,0,1,1,1};$/;"	v
 fxy	P1596.cpp	/^int fxy[9]={0,-1,0,1,-1,1,-1,0,1};$/;"	v
 g	P1023.cpp	/^}g[10000];\/\/记录利润和销量$/;"	v	typeref:struct:goods
-g	P1162.cpp	/^int g[31][31];$/;"	v
+g	P1162.cpp	/^int g[101][101];$/;"	v
 g	P1321.cpp	/^int g, b;$/;"	v
 g	P1451.cpp	/^int g[101][101];$/;"	v
 g	P1596.cpp	/^int g[101][101], m, n, ans = 0;$/;"	v
 g	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
+ganbu	P1051.cpp	/^    char ganbu, xibu;$/;"	m	struct:Per	file:
 gcd	P1851.cpp	/^int gcd(int x)$/;"	f
+gcd	P2118.cpp	/^int gcd(int x, int y)$/;"	f
+getOrigPosition	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^	F.transitions = {$/;"	m	class:F.transitions
+getOrigPosition	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^_afterZoomOut:function(a){a=a||b.current;f(".fancybox-wrap").trigger("onReset").remove();f.extend(b,{group:{},opts:{},router:!1,current:null,isActive:!1,isOpened:!1,isOpen:!1,isClosing:!1,wrap:null,skin:null,outer:null,inner:null});b.trigger("afterClose",a)}});b.transitions={getOrigPosition:function(){var a=b.current,d=a.element,e=a.orig,c={},f=50,g=50,h=a.hPadding,k=a.wPadding,n=b.getViewport();!e&&a.isDom&&d.is(":visible")&&(e=d.find("img:first"),e.length||(e=d));u(e)?(c=e.offset(),e.is("img")&&$/;"	m	class:b.transitions
+get_list	P2640.cpp	/^int get_list(int a){$/;"	f
+getc	test.cpp	/^inline int getc()$/;"	f
 goods	P1023.cpp	/^struct goods{$/;"	s	file:
+gulp	blog/gulpfile.js	/^var gulp = require('gulp');$/;"	v
 head	P1645.cpp	/^int head[5001], nxt[50001], ed[50001], value[50001], cnt = 0;$/;"	v
 head	P1744.cpp	/^int head[101], nxt[2001], ed[2001], cnt = 0;$/;"	v
 head	P3366.cpp	/^int head[5001], nxt[400001], ed[400001], value[400001], cnt = 0;$/;"	v
 head	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
-i	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+htmlclean	blog/gulpfile.js	/^var htmlclean = require('gulp-htmlclean');$/;"	v
+htmlmin	blog/gulpfile.js	/^var htmlmin = require('gulp-htmlmin');$/;"	v
+i	CF393A.cpp	/^int n, i, e, t;$/;"	v
+i	P1145.cpp	/^int i, flag, k, m, begin;$/;"	v
+i	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
+i	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
 i	P2043.cpp	/^int n,i;$/;"	v
+i	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
 i	P2669.cpp	/^int ans = 0, k, i;$/;"	v
 i	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
 i	P3150.cpp	/^int i;$/;"	v
@@ -184,122 +445,280 @@ init	P1023.cpp	/^void init()$/;"	f
 inque	P1645.cpp	/^int dis[5001], inque[5001];$/;"	v
 inque	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
 inque	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
-j	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+is_not_pr	P2640.cpp	/^int prime[100001], is_not_pr[100001], tot = 0;$/;"	v
+j	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
+j	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
+j	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
 j	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
+judge	P1316.cpp	/^bool judge(int x)$/;"	f
 jz	P2084.cpp	/^int jz;$/;"	v
+k	CF802M.cpp	/^int n, k, ans = 0;$/;"	v
+k	P1015.cpp	/^unsigned long long n = 0, k, len, nex;$/;"	v
+k	P1025.cpp	/^int n, k, ans = 0;$/;"	v
+k	P1045.cpp	/^BigNum b, p, k;$/;"	v
 k	P1062.cpp	/^int k, n;$/;"	v
+k	P1145.cpp	/^int i, flag, k, m, begin;$/;"	v
 k	P1150.cpp	/^int n, k, ans = 0, t;$/;"	v
-k	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
-k	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+k	P1226.cpp	/^long long b, p, k;$/;"	v
+k	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
 k	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+k	P1510.cpp	/^int k[10001], m[10001];$/;"	v
+k	P1538.cpp	/^int k;$/;"	v
+k	P1577.cpp	/^int n, k;$/;"	v
 k	P1867.cpp	/^int k = 0;$/;"	v
+k	P1926.cpp	/^int n, m, k, r;$/;"	v
 k	P2006.cpp	/^int k, n, m, f;$/;"	v
+k	P2440.cpp	/^int n, k;$/;"	v
+k	P2640.cpp	/^int n, k;$/;"	v
 k	P2669.cpp	/^int ans = 0, k, i;$/;"	v
+k	P5035.cpp	/^long long k;$/;"	v
+k	test.cpp	/^int n, k;$/;"	v
+l	P1094.cpp	/^int a[30001], l, r;$/;"	v
 l	P1179.cpp	/^int l, r, ans = 0;$/;"	v
+l	P1182.cpp	/^long long l = -1, r;$/;"	v
 l	P1320.cpp	/^int cnt, f = 1, l = 0;$/;"	v
 l	P1548.cpp	/^int l, m, ans_s1, ans_s2;$/;"	v
 l	P1645.cpp	/^int n, l, r, s, L = MAXN, R = -MAXN;$/;"	v
+l	P1873.cpp	/^long long m, l = 0, r;$/;"	v
+l	P2068.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
+l	P2118.cpp	/^int i, j, a, b, ansa, ansb, l;$/;"	v
+l	P2440.cpp	/^int a[100001], cnt = 0, l, r;$/;"	v
+l	P2678.cpp	/^int l, n, m;$/;"	v
+l	P3372-2.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
+l	P3372.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
+last	P1152.cpp	/^int a[1001], n, t, last;$/;"	v
 last	P1567.cpp	/^int ans = 1, n, last, tmp, Max = -1;$/;"	v
+last	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
+last	P1957.cpp	/^char last;$/;"	v
+last	P1969.cpp	/^int ans = 0, last = 0, t;$/;"	v
+last	P3903.cpp	/^int n, t, last;$/;"	v
 last	P3984.cpp	/^int last, tmp, ans;$/;"	v
+lb	P3374-2.cpp	2;"	d	file:
+left	P1803.cpp	/^	int left, right;$/;"	m	struct:competition	file:
+len	P1009.cpp	/^	int len, s[9999];$/;"	m	struct:BigNum	file:
+len	P1015.cpp	/^unsigned long long n = 0, k, len, nex;$/;"	v
+len	P1045.cpp	/^	int len, s[MAXN];$/;"	m	struct:BigNum	file:
 len	P1062.cpp	/^int num[100001], len = 0;$/;"	v
 len	P1125.cpp	/^int len;$/;"	v
+len	P1760.cpp	/^	int len, s[MAXN];$/;"	m	struct:bign	file:
+len	P2142.cpp	/^	int len, s[MAXN];$/;"	m	struct:BigNum	file:
+ll	P2068.cpp	3;"	d	file:
+ll	P3372.cpp	3;"	d	file:
+lowbit	P3368.cpp	/^int lowbit(int x)$/;"	f
+lowbit	P3374.cpp	/^int lowbit(int x)$/;"	f
+lun	P1051.cpp	/^    int qi, ban, lun;$/;"	m	struct:Per	file:
+m	AT192.cpp	/^int m, n;$/;"	v
+m	CF1A.cpp	/^long long a, n, m;$/;"	v
+m	CF632A.cpp	/^long long n, m, cnt, ans;$/;"	v
 m	P1036.cpp	/^int a[21], n, m, ans = 0;$/;"	v
 m	P1048.cpp	/^int f[1288071], t, m, a[3043], b[3043];$/;"	v
+m	P1057.cpp	/^int n, m, f[101][101];$/;"	v
 m	P1060.cpp	/^int n, m, w[30], v[30], f[50001];$/;"	v
+m	P1068.cpp	/^int n, m;$/;"	v
 m	P1070.cpp	/^int n, m, p;$/;"	v
-m	P1077.cpp	/^int f[1001][1001], n, m, a[101];$/;"	v
+m	P1071.cpp	/^char m[101];$/;"	v
+m	P1095.cpp	/^int m, s, t;$/;"	v
+m	P1104.cpp	/^    int y, m, d;$/;"	m	struct:Per	file:
+m	P1130.cpp	/^int ans, n, m, dp[2010][2010], t[2010][2010];$/;"	v
+m	P1145.cpp	/^int i, flag, k, m, begin;$/;"	v
 m	P1164.cpp	/^int m, n;$/;"	v
 m	P1181.cpp	/^int t, n, m, ans = 1, tmp = 0;$/;"	v
+m	P1316.cpp	/^int n, m, a[100001];$/;"	v
+m	P1387.cpp	/^int n, m, f[101][101], ans = -1;$/;"	v
+m	P1434.cpp	/^int n, m, ans;$/;"	v
+m	P1443.cpp	/^int n, m;$/;"	v
 m	P1451.cpp	/^int m, n, ans = 0;$/;"	v
 m	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+m	P1508.cpp	/^int n, m;$/;"	v
+m	P1510.cpp	/^int k[10001], m[10001];$/;"	v
+m	P1540.cpp	/^int n, m, ans = 0;$/;"	v
 m	P1548.cpp	/^int l, m, ans_s1, ans_s2;$/;"	v
 m	P1554.cpp	/^int n, m;$/;"	v
+m	P1563.cpp	/^int n, m, x, y;$/;"	v
+m	P1571.cpp	/^int n, m, ans, a[100001], b[100001];$/;"	v
 m	P1596.cpp	/^int g[101][101], m, n, ans = 0;$/;"	v
 m	P1614.cpp	/^int n, m, ans = 100000000;$/;"	v
 m	P1615.cpp	/^long long a, b, c, d, e, f, m;$/;"	v
 m	P1664.cpp	/^int n, t = 0, a, d = 0, m = 0;$/;"	v
+m	P1719.cpp	/^int m, i, j, first, last, area, ans;$/;"	v
 m	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
+m	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
 m	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+m	P1855.cpp	/^int m, t;$/;"	v
+m	P1873.cpp	/^long long m, l = 0, r;$/;"	v
+m	P1926.cpp	/^int n, m, k, r;$/;"	v
 m	P2006.cpp	/^int k, n, m, f;$/;"	v
+m	P2068.cpp	/^int n, m;$/;"	v
 m	P2386.cpp	/^int t, m, n;$/;"	v
+m	P2678.cpp	/^int l, n, m;$/;"	v
 m	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
 m	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
+m	P3368.cpp	/^int n, m, tree[500001];$/;"	v
+m	P3372-2.cpp	/^int n, m;$/;"	v
+m	P3372.cpp	/^int n, m;$/;"	v
+m	P3374-2.cpp	/^int n, m, tree[500001];$/;"	v
+m	P3374.cpp	/^int n, m, tree[500001];$/;"	v
 m	P3717.cpp	/^int m, n, r;$/;"	v
 m	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
+ma	P1071.cpp	/^int ma[101], mb[101];$/;"	v
+main	AT1515.cpp	/^int main()$/;"	f
+main	AT192.cpp	/^int main()$/;"	f
+main	AT2084.cpp	/^int main(){$/;"	f
+main	CF1080A.cpp	/^int main()$/;"	f
+main	CF1A.cpp	/^int main()$/;"	f
+main	CF29A.cpp	/^int main()$/;"	f
+main	CF393A.cpp	/^int main()$/;"	f
+main	CF431A.cpp	/^int main(){$/;"	f
+main	CF509A.cpp	/^int main()$/;"	f
+main	CF632A.cpp	/^int main()$/;"	f
+main	CF802G.cpp	/^int main(){$/;"	f
+main	CF802M.cpp	/^int main(){$/;"	f
+main	P1004.cpp	/^int main() {$/;"	f
+main	P1009.cpp	/^int main()$/;"	f
+main	P1015.cpp	/^int main()$/;"	f
+main	P1020.cpp	/^int main()$/;"	f
 main	P1022.cpp	/^int main()$/;"	f
 main	P1023.cpp	/^int main()$/;"	f
+main	P1024.cpp	/^int main()$/;"	f
+main	P1025.cpp	/^int main(){$/;"	f
 main	P1030.cpp	/^int main(){$/;"	f
 main	P1036.cpp	/^int main() {$/;"	f
 main	P1044.cpp	/^int main(){$/;"	f
+main	P1045.cpp	/^int main()$/;"	f
 main	P1048.cpp	/^int main(){$/;"	f
 main	P1049.cpp	/^int main(){$/;"	f
+main	P1051.cpp	/^int main()$/;"	f
+main	P1057.cpp	/^int main(){$/;"	f
 main	P1060.cpp	/^int main(){$/;"	f
 main	P1062.cpp	/^int main()$/;"	f
-main	P1070.cpp	/^int main(){  $/;"	f
+main	P1067.cpp	/^int main(){$/;"	f
+main	P1068.cpp	/^int main()$/;"	f
+main	P1070.cpp	/^int main(){$/;"	f
+main	P1071.cpp	/^int main()$/;"	f
 main	P1075.cpp	/^int main(){$/;"	f
-main	P1077.cpp	/^int main(){$/;"	f
+main	P1077.cpp	/^int main()$/;"	f
+main	P1079.cpp	/^int main()$/;"	f
 main	P1090.cpp	/^int main()$/;"	f
+main	P1094.cpp	/^int main(){$/;"	f
+main	P1095.cpp	/^int main()$/;"	f
+main	P1100.cpp	/^int main()$/;"	f
+main	P1104.cpp	/^int main()$/;"	f
 main	P1115.cpp	/^int main(){$/;"	f
 main	P1125.cpp	/^int main()$/;"	f
+main	P1130.cpp	/^int main(){$/;"	f
+main	P1145.cpp	/^int main()$/;"	f
 main	P1146.cpp	/^int main(){$/;"	f
 main	P1150.cpp	/^int main(){$/;"	f
+main	P1152.cpp	/^int main(){$/;"	f
+main	P1158.cpp	/^int main()$/;"	f
 main	P1162.cpp	/^int main(){$/;"	f
 main	P1164.cpp	/^int main(){$/;"	f
 main	P1179.cpp	/^int main(int argc, char const *argv[]) {$/;"	f
 main	P1181.cpp	/^int main(){$/;"	f
+main	P1182.cpp	/^int main()$/;"	f
+main	P1190.cpp	/^int main()$/;"	f
+main	P1204.cpp	/^int main()$/;"	f
+main	P1223.cpp	/^int main()$/;"	f
 main	P1226.cpp	/^int main()$/;"	f
+main	P1258.cpp	/^int main()$/;"	f
 main	P1296.cpp	/^int main()$/;"	f
 main	P1304.cpp	/^int main(){$/;"	f
-main	P1308.cpp	/^int main(){$/;"	f
+main	P1308.cpp	/^int main()$/;"	f
+main	P1316.cpp	/^int main(){$/;"	f
+main	P1317.cpp	/^int main()$/;"	f
 main	P1319.cpp	/^int main(){$/;"	f
 main	P1320.cpp	/^int main(){$/;"	f
 main	P1321.cpp	/^int main(){$/;"	f
+main	P1328.cpp	/^int main(){$/;"	f
+main	P1348.cpp	/^int main()$/;"	f
+main	P1359.cpp	/^int main(){$/;"	f
+main	P1387.cpp	/^int main(){$/;"	f
 main	P1420.cpp	/^int main(){$/;"	f
+main	P1434.cpp	/^int main()$/;"	f
+main	P1443.cpp	/^int main(){$/;"	f
 main	P1449.cpp	/^int main()$/;"	f
 main	P1451.cpp	/^int main(){$/;"	f
 main	P1469.cpp	/^int main(){$/;"	f
+main	P1474.cpp	/^int main(){$/;"	f
 main	P1482.cpp	/^int main(){$/;"	f
 main	P1507.cpp	/^int main(){$/;"	f
+main	P1508.cpp	/^int main(){$/;"	f
+main	P1510.cpp	/^int main() {$/;"	f
 main	P1534.cpp	/^int main(){$/;"	f
+main	P1538.cpp	/^int main()$/;"	f
+main	P1540.cpp	/^int main(int argc, char const *argv[])$/;"	f
 main	P1548.cpp	/^int main(){$/;"	f
 main	P1554.cpp	/^int main(){$/;"	f
+main	P1563.cpp	/^int main()$/;"	f
 main	P1567.cpp	/^int main() {$/;"	f
+main	P1568.cpp	/^int main()$/;"	f
+main	P1571.cpp	/^int main(){$/;"	f
+main	P1577.cpp	/^int main()$/;"	f
 main	P1590.cpp	/^int main(){$/;"	f
 main	P1596.cpp	/^int main(){$/;"	f
 main	P1597.cpp	/^int main(){$/;"	f
+main	P1598.cpp	/^int main()$/;"	f
 main	P1614.cpp	/^int main()$/;"	f
 main	P1615.cpp	/^int main(){$/;"	f
 main	P1645.cpp	/^int main(){$/;"	f
 main	P1664.cpp	/^int main()$/;"	f
 main	P1706.cpp	/^int main(){$/;"	f
+main	P1719.cpp	/^int main()$/;"	f
 main	P1720.cpp	/^int main(){$/;"	f
+main	P1734.cpp	/^int main(){$/;"	f
 main	P1739.cpp	/^int main(){$/;"	f
 main	P1744.cpp	/^int main(){$/;"	f
+main	P1757.cpp	/^int main(){$/;"	f
+main	P1760.cpp	/^int main(int argc, char const *argv[])$/;"	f
 main	P1765.cpp	/^int main(){$/;"	f
+main	P1781.cpp	/^int main()$/;"	f
 main	P1789.cpp	/^int main(){$/;"	f
+main	P1803.cpp	/^int main(){$/;"	f
+main	P1824.cpp	/^int main(int argc, char const *argv[])$/;"	f
 main	P1830.cpp	/^int main()$/;"	f
 main	P1838.cpp	/^int main(){$/;"	f
+main	P1843.cpp	/^int main()$/;"	f
 main	P1847.cpp	/^int main()$/;"	f
 main	P1851.cpp	/^int main()$/;"	f
+main	P1855.cpp	/^int main(){$/;"	f
 main	P1867.cpp	/^int main(){$/;"	f
+main	P1873.cpp	/^int main()$/;"	f
 main	P1876.cpp	/^int main(){$/;"	f
 main	P1888.cpp	/^int main(){$/;"	f
 main	P1897.cpp	/^int main(){$/;"	f
+main	P1908.cpp	/^int main()$/;"	f
 main	P1917.cpp	/^int main(){$/;"	f
+main	P1926.cpp	/^int main(){$/;"	f
 main	P1936.cpp	/^int main() {$/;"	f
+main	P1957.cpp	/^int main()$/;"	f
+main	P1968.cpp	/^int main(){$/;"	f
+main	P1969.cpp	/^int main()$/;"	f
+main	P1981.cpp	/^int main()$/;"	f
 main	P2006.cpp	/^int main(){$/;"	f
+main	P2036.cpp	/^int main(){$/;"	f
 main	P2043.cpp	/^int main()$/;"	f
+main	P2068.cpp	/^int main()$/;"	f
 main	P2084.cpp	/^int main(){$/;"	f
 main	P2089.cpp	/^int main(){$/;"	f
+main	P2118.cpp	/^int main()$/;"	f
 main	P2141.cpp	/^int main(){$/;"	f
+main	P2142.cpp	/^int main(){$/;"	f
 main	P2192.cpp	/^int main(){$/;"	f
 main	P2239.cpp	/^int main(){$/;"	f
 main	P2347.cpp	/^int main() {$/;"	f
 main	P2386.cpp	/^int main(){$/;"	f
 main	P2415.cpp	/^int main(){$/;"	f
+main	P2430.cpp	/^int main()$/;"	f
+main	P2440.cpp	/^int main()$/;"	f
+main	P2626.cpp	/^int main(){$/;"	f
+main	P2639.cpp	/^int main(){$/;"	f
+main	P2640.cpp	/^int main(){$/;"	f
+main	P2651.cpp	/^int main(){$/;"	f
 main	P2666.cpp	/^int main(){$/;"	f
 main	P2669.cpp	/^int main(){$/;"	f
 main	P2676.cpp	/^int main(){$/;"	f
+main	P2678.cpp	/^int main()$/;"	f
+main	P2708.cpp	/^int main()$/;"	f
 main	P2788.cpp	/^int main()$/;"	f
 main	P2871.cpp	/^int main(){$/;"	f
 main	P2911.cpp	/^int main(){$/;"	f
@@ -307,45 +726,113 @@ main	P2955.cpp	/^int main(){$/;"	f
 main	P2956.cpp	/^int main(){$/;"	f
 main	P3150.cpp	/^int main(){$/;"	f
 main	P3366.cpp	/^int main()$/;"	f
+main	P3368.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	P3372-2.cpp	/^int main()$/;"	f
+main	P3372.cpp	/^int main()$/;"	f
+main	P3374-2.cpp	/^int main()$/;"	f
+main	P3374.cpp	/^int main(int argc, char const *argv[])$/;"	f
 main	P3717.cpp	/^int main(){$/;"	f
 main	P3741.cpp	/^int main(){$/;"	f
 main	P3742.cpp	/^int main(){$/;"	f
+main	P3903.cpp	/^int main(){$/;"	f
 main	P3905.cpp	/^int main(){$/;"	f
+main	P3926.cpp	/^int main()$/;"	f
+main	P3951.cpp	/^int main()$/;"	f
 main	P3954.cpp	/^int main(){$/;"	f
+main	P3955.cpp	/^int main()$/;"	f
 main	P3984.cpp	/^int main(){$/;"	f
+main	P4326.cpp	/^int main()$/;"	f
+main	P5019.cpp	/^int main(){$/;"	f
+main	P5035.cpp	/^int main(){$/;"	f
 main	T37785.cpp	/^int main()$/;"	f
 main	T42830.cpp	/^int main()$/;"	f
+main	asd.cpp	/^int main(){$/;"	f
+main	blog/add_blog.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	haha.cpp	/^int main(){char s[]="#include<cstdio>%cint main(){char s[]=%c%s%c;printf(s,10,34,s,34);}";printf(s,10,34,s,34);}/;"	f
+main	tast.cpp	/^int main(){$/;"	f
+main	test.cpp	/^int main()$/;"	f
+matrix	P1719.cpp	/^int matrix[SIZE + 1][SIZE + 1];$/;"	v
 max	P1897.cpp	/^int n,a,ans,max;$/;"	v
+maxName	P1051.cpp	/^string maxName;$/;"	v
+maxmoney	P1051.cpp	/^int maxmoney = 0;$/;"	v
+maxn	P1020.cpp	/^const int maxn = 100005;$/;"	v
 maxn	P1125.cpp	/^int maxn = -1, minn = 101;$/;"	v
+maxx	P1508.cpp	/^int maxx(int a, int b, int c){$/;"	f
+maxx1	P1204.cpp	/^int maxx1, maxx2, minns = 0x7fffffff, maxxe = 0;$/;"	v
+maxx2	P1204.cpp	/^int maxx1, maxx2, minns = 0x7fffffff, maxxe = 0;$/;"	v
+maxxe	P1204.cpp	/^int maxx1, maxx2, minns = 0x7fffffff, maxxe = 0;$/;"	v
+mb	P1071.cpp	/^int ma[101], mb[101];$/;"	v
+merge_sort	P1908.cpp	/^void merge_sort(int ll, int rr)$/;"	f
+mid	P2678.cpp	/^int Left, Right, mid;$/;"	v
+minifycss	blog/gulpfile.js	/^var minifycss = require('gulp-minify-css');$/;"	v
 minn	P1125.cpp	/^int maxn = -1, minn = 101;$/;"	v
+minns	P1204.cpp	/^int maxx1, maxx2, minns = 0x7fffffff, maxxe = 0;$/;"	v
+mo	P1095.cpp	/^int mo;$/;"	v
+module.exports	blog/themes/landscape/Gruntfile.js	/^module.exports = function(grunt){$/;"	f
 mst	P3366.cpp	/^long long mst = 0;$/;"	v
+mz	asd.cpp	/^int mz[11]={0,523,587,659,698,784,880,988,1046,1175},shu,dd;$/;"	v
+n	AT192.cpp	/^int m, n;$/;"	v
+n	CF1A.cpp	/^long long a, n, m;$/;"	v
+n	CF29A.cpp	/^int n;$/;"	v
+n	CF393A.cpp	/^int n, i, e, t;$/;"	v
+n	CF509A.cpp	/^int n;$/;"	v
+n	CF632A.cpp	/^long long n, m, cnt, ans;$/;"	v
+n	CF802M.cpp	/^int n, k, ans = 0;$/;"	v
+n	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
+n	P1009.cpp	/^int n;$/;"	v
+n	P1015.cpp	/^unsigned long long n = 0, k, len, nex;$/;"	v
 n	P1023.cpp	/^    int n;$/;"	m	struct:goods	file:
 n	P1023.cpp	/^int x, n, cost;$/;"	v
+n	P1025.cpp	/^int n, k, ans = 0;$/;"	v
 n	P1036.cpp	/^int a[21], n, m, ans = 0;$/;"	v
 n	P1044.cpp	/^int n, f[10001];$/;"	v
 n	P1049.cpp	/^int V, n, v[10001], f[10001];$/;"	v
+n	P1051.cpp	/^int n;$/;"	v
+n	P1057.cpp	/^int n, m, f[101][101];$/;"	v
 n	P1060.cpp	/^int n, m, w[30], v[30], f[50001];$/;"	v
 n	P1062.cpp	/^int k, n;$/;"	v
+n	P1067.cpp	/^int n;$/;"	v
+n	P1068.cpp	/^int n, m;$/;"	v
 n	P1070.cpp	/^int n, m, p;$/;"	v
 n	P1075.cpp	/^int n;$/;"	v
-n	P1077.cpp	/^int f[1001][1001], n, m, a[101];$/;"	v
 n	P1090.cpp	/^int n, a[100001], ans = 0;$/;"	v
+n	P1094.cpp	/^int w, n, ans;$/;"	v
+n	P1104.cpp	/^int n;$/;"	v
 n	P1115.cpp	/^int n, f[100001], a[200001], ans = -10001;$/;"	v
+n	P1130.cpp	/^int ans, n, m, dp[2010][2010], t[2010][2010];$/;"	v
 n	P1146.cpp	/^int n, a[101];$/;"	v
 n	P1150.cpp	/^int n, k, ans = 0, t;$/;"	v
+n	P1152.cpp	/^int a[1001], n, t, last;$/;"	v
+n	P1158.cpp	/^int n, X1, Y1, X2, Y2;$/;"	v
 n	P1162.cpp	/^int n;$/;"	v
 n	P1164.cpp	/^int m, n;$/;"	v
 n	P1181.cpp	/^int t, n, m, ans = 1, tmp = 0;$/;"	v
-n	P1296.cpp	/^int a[1000001],n,f,i,j,k;$/;"	v
+n	P1182.cpp	/^long long n, M, a[100001];$/;"	v
+n	P1223.cpp	/^int n;$/;"	v
+n	P1296.cpp	/^int a[1000001], n, f, i, j, k;$/;"	v
 n	P1304.cpp	/^int n;$/;"	v
+n	P1316.cpp	/^int n, m, a[100001];$/;"	v
+n	P1317.cpp	/^int a[1001], n, b[1001], t = 0, ans = 0;$/;"	v
 n	P1319.cpp	/^int cur = 0, n, sum = 0, t, f = 0;$/;"	v
+n	P1328.cpp	/^int n, na, nb;$/;"	v
+n	P1359.cpp	/^int f[201],n, x;$/;"	v
+n	P1387.cpp	/^int n, m, f[101][101], ans = -1;$/;"	v
 n	P1420.cpp	/^int Max = -1, ans, n, t, t1;$/;"	v
+n	P1434.cpp	/^int n, m, ans;$/;"	v
+n	P1443.cpp	/^int n, m;$/;"	v
 n	P1451.cpp	/^int m, n, ans = 0;$/;"	v
 n	P1469.cpp	/^int a[10000001], n, t;$/;"	v
+n	P1474.cpp	/^int v, n;$/;"	v
 n	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+n	P1508.cpp	/^int n, m;$/;"	v
+n	P1510.cpp	/^int v, n, c;$/;"	v
 n	P1534.cpp	/^int n;$/;"	v
+n	P1540.cpp	/^int n, m, ans = 0;$/;"	v
 n	P1554.cpp	/^int n, m;$/;"	v
+n	P1563.cpp	/^int n, m, x, y;$/;"	v
 n	P1567.cpp	/^int ans = 1, n, last, tmp, Max = -1;$/;"	v
+n	P1571.cpp	/^int n, m, ans, a[100001], b[100001];$/;"	v
+n	P1577.cpp	/^int n, k;$/;"	v
 n	P1590.cpp	/^int n, t;$/;"	v
 n	P1596.cpp	/^int g[101][101], m, n, ans = 0;$/;"	v
 n	P1614.cpp	/^int n, m, ans = 100000000;$/;"	v
@@ -354,94 +841,287 @@ n	P1664.cpp	/^int n, t = 0, a, d = 0, m = 0;$/;"	v
 n	P1706.cpp	/^int n, used[15], ans[15];$/;"	v
 n	P1720.cpp	/^int n;$/;"	v
 n	P1744.cpp	/^int n, x[101], y[101];$/;"	v
+n	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
+n	P1760.cpp	/^int n;$/;"	v
+n	P1781.cpp	/^int n;$/;"	v
+n	P1803.cpp	/^int n;$/;"	v
+n	P1824.cpp	/^int n, c, a[1000001];$/;"	v
 n	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
 n	P1851.cpp	/^int n;$/;"	v
+n	P1855.cpp	/^int n;$/;"	v
 n	P1867.cpp	/^int n;$/;"	v
+n	P1873.cpp	/^long long n;$/;"	v
 n	P1876.cpp	/^long long n;$/;"	v
 n	P1897.cpp	/^int n,a,ans,max;$/;"	v
+n	P1908.cpp	/^int a[500001], t[500001], n;$/;"	v
+n	P1926.cpp	/^int n, m, k, r;$/;"	v
+n	P1957.cpp	/^int n;$/;"	v
+n	P1968.cpp	/^int n, a;$/;"	v
+n	P1969.cpp	/^int n;$/;"	v
 n	P2006.cpp	/^int k, n, m, f;$/;"	v
+n	P2036.cpp	/^int n;$/;"	v
 n	P2043.cpp	/^int n,i;$/;"	v
+n	P2068.cpp	/^int n, m;$/;"	v
 n	P2084.cpp	/^char n[1005];$/;"	v
 n	P2141.cpp	/^int used[100001] = {}, ans = 0, n, a[100001];$/;"	v
 n	P2192.cpp	/^int n, f = 0, z = 0, t;$/;"	v
 n	P2239.cpp	/^int n, x, y;$/;"	v
 n	P2386.cpp	/^int t, m, n;$/;"	v
 n	P2415.cpp	/^long long sum = 0, n = 0, t;$/;"	v
+n	P2440.cpp	/^int n, k;$/;"	v
+n	P2626.cpp	/^long long f[49], n;$/;"	v
+n	P2639.cpp	/^int n;$/;"	v
+n	P2640.cpp	/^int n, k;$/;"	v
+n	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
 n	P2666.cpp	/^int n, ans = 0;$/;"	v
 n	P2676.cpp	/^int tall[20001], b, n, ans = 0;$/;"	v
+n	P2678.cpp	/^int l, n, m;$/;"	v
 n	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
 n	P2955.cpp	/^int n;$/;"	v
 n	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
+n	P3368.cpp	/^int n, m, tree[500001];$/;"	v
+n	P3372-2.cpp	/^int n, m;$/;"	v
+n	P3372.cpp	/^int n, m;$/;"	v
+n	P3374-2.cpp	/^int n, m, tree[500001];$/;"	v
+n	P3374.cpp	/^int n, m, tree[500001];$/;"	v
 n	P3717.cpp	/^int m, n, r;$/;"	v
 n	P3741.cpp	/^int n;$/;"	v
 n	P3742.cpp	/^char x[101], z[101], n;$/;"	v
+n	P3903.cpp	/^int n, t, last;$/;"	v
 n	P3905.cpp	/^int n, m, _, __, ___, d, g[101][101];$/;"	v
+n	P3955.cpp	/^int n, q;$/;"	v
 n	P3984.cpp	/^int n, t;$/;"	v
+n	P5019.cpp	/^int n, a[1000001], ans = 0;$/;"	v
+n	test.cpp	/^int n, k;$/;"	v
+na	P1328.cpp	/^int n, na, nb;$/;"	v
+name	P1051.cpp	/^    string name;$/;"	m	struct:Per	file:
+name	P1104.cpp	/^    string name;$/;"	m	struct:Per	file:
+nb	P1328.cpp	/^int n, na, nb;$/;"	v
+nex	P1015.cpp	/^unsigned long long n = 0, k, len, nex;$/;"	v
+nn	P1015.cpp	/^string nn;$/;"	v
 now	P1023.cpp	/^int now;\/\/个数$/;"	v
+now	P1449.cpp	/^int now = 0;$/;"	v
 num	P1062.cpp	/^int num[100001], len = 0;$/;"	v
+num	P1068.cpp	/^    int num, score;$/;"	m	struct:Person	file:
 num	P1125.cpp	/^int num[100];$/;"	v
 num	P1765.cpp	/^int num[26] = {1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 4, 1, 2, 3, 1, 2, 3, 4};$/;"	v
 nxt	P1645.cpp	/^int head[5001], nxt[50001], ed[50001], value[50001], cnt = 0;$/;"	v
 nxt	P1744.cpp	/^int head[101], nxt[2001], ed[2001], cnt = 0;$/;"	v
 nxt	P3366.cpp	/^int head[5001], nxt[400001], ed[400001], value[400001], cnt = 0;$/;"	v
 nxt	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+operator !=	P1045.cpp	/^	bool operator!=(const BigNum &b)$/;"	f	struct:BigNum
+operator !=	P1760.cpp	/^	bool operator!=(const bign &b)$/;"	f	struct:bign
+operator !=	P2142.cpp	/^	bool operator!=(const BigNum &b)$/;"	f	struct:BigNum
+operator %	P1045.cpp	/^	BigNum operator%(const BigNum &b)$/;"	f	struct:BigNum
+operator %	P1760.cpp	/^	bign operator%(const bign &b)$/;"	f	struct:bign
+operator %	P2142.cpp	/^	BigNum operator%(const BigNum &b)$/;"	f	struct:BigNum
+operator %=	P1045.cpp	/^	BigNum operator%=(const BigNum &b)$/;"	f	struct:BigNum
+operator %=	P1760.cpp	/^	bign operator%=(const bign &b)$/;"	f	struct:bign
+operator %=	P2142.cpp	/^	BigNum operator%=(const BigNum &b)$/;"	f	struct:BigNum
+operator *	P1009.cpp	/^	BigNum operator*(const BigNum &x)$/;"	f	struct:BigNum
+operator *	P1045.cpp	/^	BigNum operator*(const BigNum &b)$/;"	f	struct:BigNum
+operator *	P1760.cpp	/^	bign operator*(const bign &b)$/;"	f	struct:bign
+operator *	P2142.cpp	/^	BigNum operator*(const BigNum &b)$/;"	f	struct:BigNum
+operator *=	P1045.cpp	/^	BigNum operator*=(const BigNum &b)$/;"	f	struct:BigNum
+operator *=	P1760.cpp	/^	bign operator*=(const bign &b)$/;"	f	struct:bign
+operator *=	P2142.cpp	/^	BigNum operator*=(const BigNum &b)$/;"	f	struct:BigNum
+operator +	P1009.cpp	/^	BigNum operator+(const BigNum &a)$/;"	f	struct:BigNum
+operator +	P1045.cpp	/^	BigNum operator+(const BigNum &b) const$/;"	f	struct:BigNum
+operator +	P1760.cpp	/^	bign operator+(const bign &b) const$/;"	f	struct:bign
+operator +	P2142.cpp	/^	BigNum operator+(const BigNum &b) const$/;"	f	struct:BigNum
+operator +=	P1045.cpp	/^	BigNum operator+=(const BigNum &b)$/;"	f	struct:BigNum
+operator +=	P1760.cpp	/^	bign operator+=(const bign &b)$/;"	f	struct:bign
+operator +=	P2142.cpp	/^	BigNum operator+=(const BigNum &b)$/;"	f	struct:BigNum
+operator -	P1045.cpp	/^	BigNum operator-(const BigNum &b)$/;"	f	struct:BigNum
+operator -	P1760.cpp	/^	bign operator-(const bign &b)$/;"	f	struct:bign
+operator -	P2142.cpp	/^	BigNum operator-(const BigNum &b)$/;"	f	struct:BigNum
+operator -=	P1045.cpp	/^	BigNum operator-=(const BigNum &b)$/;"	f	struct:BigNum
+operator -=	P1760.cpp	/^	bign operator-=(const bign &b)$/;"	f	struct:bign
+operator -=	P2142.cpp	/^	BigNum operator-=(const BigNum &b)$/;"	f	struct:BigNum
+operator /	P1045.cpp	/^	BigNum operator\/(const BigNum &b)$/;"	f	struct:BigNum
+operator /	P1760.cpp	/^	bign operator\/(const bign &b)$/;"	f	struct:bign
+operator /	P2142.cpp	/^	BigNum operator\/(const BigNum &b)$/;"	f	struct:BigNum
+operator /=	P1045.cpp	/^	BigNum operator\/=(const BigNum &b)$/;"	f	struct:BigNum
+operator /=	P1760.cpp	/^	bign operator\/=(const bign &b)$/;"	f	struct:bign
+operator /=	P2142.cpp	/^	BigNum operator\/=(const BigNum &b)$/;"	f	struct:BigNum
+operator <	P1045.cpp	/^	bool operator<(const BigNum &b)$/;"	f	struct:BigNum
+operator <	P1760.cpp	/^	bool operator<(const bign &b)$/;"	f	struct:bign
+operator <	P2142.cpp	/^	bool operator<(const BigNum &b)$/;"	f	struct:BigNum
+operator <<	P1009.cpp	/^ostream &operator<<(ostream &out, const BigNum &x)$/;"	f
+operator <<	P1045.cpp	/^ostream &operator<<(ostream &out, const BigNum &x)$/;"	f
+operator <<	P1760.cpp	/^ostream &operator<<(ostream &out, const bign &x)$/;"	f
+operator <<	P2142.cpp	/^ostream &operator<<(ostream &out, const BigNum &x)$/;"	f
+operator <=	P1045.cpp	/^	bool operator<=(const BigNum &b)$/;"	f	struct:BigNum
+operator <=	P1760.cpp	/^	bool operator<=(const bign &b)$/;"	f	struct:bign
+operator <=	P2142.cpp	/^	bool operator<=(const BigNum &b)$/;"	f	struct:BigNum
+operator =	P1009.cpp	/^	BigNum operator=(const char *num)$/;"	f	struct:BigNum
+operator =	P1009.cpp	/^	BigNum operator=(const int num)$/;"	f	struct:BigNum
+operator =	P1045.cpp	/^	BigNum operator=(const char *num)$/;"	f	struct:BigNum
+operator =	P1045.cpp	/^	BigNum operator=(const int num)$/;"	f	struct:BigNum
+operator =	P1760.cpp	/^	bign operator=(const char *num)$/;"	f	struct:bign
+operator =	P1760.cpp	/^	bign operator=(const int num)$/;"	f	struct:bign
+operator =	P2142.cpp	/^	BigNum operator=(const char *num)$/;"	f	struct:BigNum
+operator =	P2142.cpp	/^	BigNum operator=(const int num)$/;"	f	struct:BigNum
+operator ==	P1045.cpp	/^	bool operator==(const BigNum &b)$/;"	f	struct:BigNum
+operator ==	P1760.cpp	/^	bool operator==(const bign &b)$/;"	f	struct:bign
+operator ==	P2142.cpp	/^	bool operator==(const BigNum &b)$/;"	f	struct:BigNum
+operator >	P1045.cpp	/^	bool operator>(const BigNum &b)$/;"	f	struct:BigNum
+operator >	P1760.cpp	/^	bool operator>(const bign &b)$/;"	f	struct:bign
+operator >	P2142.cpp	/^	bool operator>(const BigNum &b)$/;"	f	struct:BigNum
+operator >=	P1045.cpp	/^	bool operator>=(const BigNum &b)$/;"	f	struct:BigNum
+operator >=	P1760.cpp	/^	bool operator>=(const bign &b)$/;"	f	struct:bign
+operator >=	P2142.cpp	/^	bool operator>=(const BigNum &b)$/;"	f	struct:BigNum
+operator >>	P1009.cpp	/^istream &operator>>(istream &in, BigNum &x)$/;"	f
+operator >>	P1045.cpp	/^istream &operator>>(istream &in, BigNum &x)$/;"	f
+operator >>	P1760.cpp	/^istream &operator>>(istream &in, bign &x)$/;"	f
+operator >>	P2142.cpp	/^istream &operator>>(istream &in, BigNum &x)$/;"	f
 p	P1023.cpp	/^    int p;$/;"	m	struct:goods	file:
+p	P1045.cpp	/^BigNum b, p, k;$/;"	v
 p	P1070.cpp	/^int n, m, p;$/;"	v
-p	P1226.cpp	/^long long b, p, k, a, c, ans = 1;$/;"	v
-p	P1308.cpp	/^int ans = 0, tmp = 0, p;$/;"	v
+p	P1226.cpp	/^long long b, p, k;$/;"	v
 p	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+p	P2068.cpp	/^} p[400001];$/;"	v	typeref:struct:SEG
+p	P3372-2.cpp	/^SEG p[400001];$/;"	v
+p	P3372.cpp	/^} p[400001];$/;"	v	typeref:struct:SEG
+p	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
 p	T42830.cpp	/^int p = 0;$/;"	v
+p1	test.cpp	/^char buf[1 << 21], *p1 = buf, *p2 = buf;$/;"	v
+p2	test.cpp	/^char buf[1 << 21], *p1 = buf, *p2 = buf;$/;"	v
+pi	P4326.cpp	/^const double pi = acos(-1.0);$/;"	v
 point	P1162.cpp	/^struct point{$/;"	s	file:
+prev	blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js	/^				buttons = {$/;"	p	class:buttons
 prime	P2043.cpp	/^void prime(int x)$/;"	f
+prime	P2640.cpp	/^int prime[100001], is_not_pr[100001], tot = 0;$/;"	v
 q	P1090.cpp	/^priority_queue<int, vector<int>, greater<int> > q;$/;"	v
-q	P1162.cpp	/^queue <point> q;$/;"	v
+q	P1162.cpp	/^queue <point>q;$/;"	v
+q	P1443.cpp	/^queue <Point> q;$/;"	v
 q	P1645.cpp	/^queue <int> q;$/;"	v
 q	P1744.cpp	/^queue <int> q;$/;"	v
+q	P2036.cpp	/^queue <Point> q;$/;"	v
 q	P2956.cpp	/^bool q[300][300];$/;"	v
 q	P3905.cpp	/^queue <int> q;$/;"	v
+q	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
+q	P3955.cpp	/^int n, q;$/;"	v
 qb	P1838.cpp	/^int qb[10]={6,6,6,6,6,6,6,6,6,6},t=-1;$/;"	v
+qi	P1051.cpp	/^    int qi, ban, lun;$/;"	m	struct:Per	file:
+qian	P1051.cpp	/^int qian[101];$/;"	v
+query	P3368.cpp	/^int query(int x)$/;"	f
+query	P3374.cpp	/^int query(int x)$/;"	f
+r	P1094.cpp	/^int a[30001], l, r;$/;"	v
 r	P1179.cpp	/^int l, r, ans = 0;$/;"	v
+r	P1182.cpp	/^long long l = -1, r;$/;"	v
 r	P1645.cpp	/^int n, l, r, s, L = MAXN, R = -MAXN;$/;"	v
+r	P1873.cpp	/^long long m, l = 0, r;$/;"	v
+r	P1926.cpp	/^int n, m, k, r;$/;"	v
+r	P2068.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
+r	P2440.cpp	/^int a[100001], cnt = 0, l, r;$/;"	v
+r	P3372-2.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
+r	P3372.cpp	/^    int l, r;$/;"	m	struct:SEG	file:
 r	P3717.cpp	/^int m, n, r;$/;"	v
-s	P1449.cpp	/^char s = 'h';$/;"	v
+r	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
+r	P4326.cpp	/^double r;$/;"	v
+r2	P1158.cpp	/^int r2  = 0;$/;"	v
+rUrl	blog/themes/landscape/scripts/fancybox.js	/^var rUrl = \/((([A-Za-z]{3,9}:(?:\\\/\\\/)?)(?:[-;:&=\\+\\$,\\w]+@)?[A-Za-z0-9.-]+|(?:www.|[-;:&=\\+\\$,\\w]+@)[A-Za-z0-9.-]+)((?:\\\/[\\+~%\\\/.\\w-_]*)?\\??(?:[-\\+=&;%@.\\w_]*)#?(?:[.\\!\\\/\\\\w]*))?)\/;$/;"	v
+redi	test.cpp	/^template <typename T,typenadame... Args> inline void redi(T& t, Args&... args)$/;"	f
+redi	test.cpp	/^template <typename T>inline void redi(T &ret)$/;"	f
+right	P1803.cpp	/^	int left, right;$/;"	m	struct:competition	file:
+rowsum	P1719.cpp	/^int rowsum[SIZE + 1][SIZE + 1];$/;"	v
+s	CF632A.cpp	/^string s[51];$/;"	v
+s	P1009.cpp	/^	int len, s[9999];$/;"	m	struct:BigNum	file:
+s	P1045.cpp	/^	int len, s[MAXN];$/;"	m	struct:BigNum	file:
+s	P1095.cpp	/^int m, s, t;$/;"	v
+s	P1190.cpp	/^int s[100001], ans;$/;"	v
+s	P1449.cpp	/^char s;$/;"	v
 s	P1534.cpp	/^int s = 0, x, y, sum = 0;$/;"	v
+s	P1538.cpp	/^string s, Draw[10] = {"-|| ||-", "  |  | ", "- |-| -",$/;"	v
 s	P1590.cpp	/^char s[30];$/;"	v
 s	P1645.cpp	/^int n, l, r, s, L = MAXN, R = -MAXN;$/;"	v
+s	P1734.cpp	/^int s;$/;"	v
 s	P1739.cpp	/^stack <char> s;$/;"	v
 s	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
+s	P1760.cpp	/^	int len, s[MAXN];$/;"	m	struct:bign	file:
 s	P1838.cpp	/^string s;$/;"	v
 s	P1897.cpp	/^bool s[100000000];$/;"	v
+s	P2036.cpp	/^    int s, b;$/;"	m	struct:Point	file:
+s	P2142.cpp	/^	int len, s[MAXN];$/;"	m	struct:BigNum	file:
 s	P3741.cpp	/^string s;$/;"	v
 s	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+score	P1068.cpp	/^    int num, score;$/;"	m	struct:Person	file:
+score	P1328.cpp	/^int score[11][11] = {{0,0,1,1,0},{1,0,0,1,0},{0,1,0,0,1},{0,0,1,0,1},{1,1,0,0,0}};$/;"	v
+scorea	P1328.cpp	/^int scorea = 0, scoreb = 0;$/;"	v
+scoreb	P1328.cpp	/^int scorea = 0, scoreb = 0;$/;"	v
+shu	P1981.cpp	/^long long shu, sum = 0, cj;$/;"	v
+shu	asd.cpp	/^int mz[11]={0,523,587,659,698,784,880,988,1046,1175},shu,dd;$/;"	v
 solve	P1179.cpp	/^int solve(int n) {$/;"	f
 solve	P2386.cpp	/^int solve(int m, int n){\/\/m : 苹果， n ： 盘子$/;"	f
+startMobileNavAnim	blog/themes/landscape/source/js/script.js	/^  var startMobileNavAnim = function(){$/;"	f
+startSearchAnim	blog/themes/landscape/source/js/script.js	/^  var startSearchAnim = function(){$/;"	f
+step	P1443.cpp	/^	int x, y, step;$/;"	m	struct:Point	file:
+step	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^		},$/;"	m	class:F.transitions
+step	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^(f=e.outerWidth(),g=e.outerHeight())):(c.top=n.y+(n.h-g)*a.topRatio,c.left=n.x+(n.w-f)*a.leftRatio);if("fixed"===b.wrap.css("position")||a.locked)c.top-=n.y,c.left-=n.x;return c={top:x(c.top-h*a.topRatio),left:x(c.left-k*a.leftRatio),width:x(f+k),height:x(g+h)}},step:function(a,d){var e,c,f=d.prop;c=b.current;var g=c.wrapSpace,h=c.skinSpace;if("width"===f||"height"===f)e=d.end===d.start?1:(a-d.start)\/(d.end-d.start),b.isClosing&&(e=1-e),c="width"===f?c.wPadding:c.hPadding,c=a-c,b.skin[f](m("width"===$/;"	m	class:b.transitions
+stopMobileNavAnim	blog/themes/landscape/source/js/script.js	/^  var stopMobileNavAnim = function(){$/;"	f
+stopSearchAnim	blog/themes/landscape/source/js/script.js	/^  var stopSearchAnim = function(callback){$/;"	f
+str	P1045.cpp	/^	string str() const$/;"	f	struct:BigNum
+str	P1598.cpp	/^char str[10000 + 1];$/;"	v
+str	P1760.cpp	/^	string str() const$/;"	f	struct:bign
+str	P2142.cpp	/^	string str() const$/;"	f	struct:BigNum
+sum	CF431A.cpp	/^int a[5], sum = 0;$/;"	v
+sum	P1051.cpp	/^int sum = 0;$/;"	v
+sum	P1223.cpp	/^double sum;$/;"	v
 sum	P1319.cpp	/^int cur = 0, n, sum = 0, t, f = 0;$/;"	v
 sum	P1534.cpp	/^int s = 0, x, y, sum = 0;$/;"	v
 sum	P1614.cpp	/^int a[3001], sum[3001];$/;"	v
 sum	P1867.cpp	/^int sum = 0;$/;"	v
+sum	P1981.cpp	/^long long shu, sum = 0, cj;$/;"	v
+sum	P2068.cpp	/^ll sum[100001];$/;"	v
 sum	P2415.cpp	/^long long sum = 0, n = 0, t;$/;"	v
+sum	P3372-2.cpp	/^long long a[100001], sum[100001];$/;"	v
+sum	P3372.cpp	/^ll sum[100001];$/;"	v
+sx	P1443.cpp	/^int sx, sy;$/;"	v
+sy	P1443.cpp	/^int sx, sy;$/;"	v
+t	CF393A.cpp	/^int n, i, e, t;$/;"	v
+t	CF431A.cpp	/^string t;$/;"	v
+t	P1009.cpp	/^BigNum ans = 0, t = 1;$/;"	v
 t	P1048.cpp	/^int f[1288071], t, m, a[3043], b[3043];$/;"	v
+t	P1095.cpp	/^int m, s, t;$/;"	v
+t	P1104.cpp	/^} t[101];$/;"	v	typeref:struct:Per
 t	P1125.cpp	/^int t;$/;"	v
+t	P1130.cpp	/^int ans, n, m, dp[2010][2010], t[2010][2010];$/;"	v
 t	P1150.cpp	/^int n, k, ans = 0, t;$/;"	v
+t	P1152.cpp	/^int a[1001], n, t, last;$/;"	v
 t	P1181.cpp	/^int t, n, m, ans = 1, tmp = 0;$/;"	v
+t	P1223.cpp	/^long long t[1001];$/;"	v
+t	P1317.cpp	/^int a[1001], n, b[1001], t = 0, ans = 0;$/;"	v
 t	P1319.cpp	/^int cur = 0, n, sum = 0, t, f = 0;$/;"	v
 t	P1420.cpp	/^int Max = -1, ans, n, t, t1;$/;"	v
-t	P1449.cpp	/^int t;$/;"	v
 t	P1469.cpp	/^int a[10000001], n, t;$/;"	v
 t	P1590.cpp	/^int n, t;$/;"	v
 t	P1596.cpp	/^char t;$/;"	v
+t	P1598.cpp	/^int t[10001];$/;"	v
 t	P1664.cpp	/^int n, t = 0, a, d = 0, m = 0;$/;"	v
 t	P1739.cpp	/^char t;$/;"	v
 t	P1744.cpp	/^int inque[101], X, Y, s, t, m;$/;"	v
+t	P1760.cpp	/^bign ans = 1, t = 2;$/;"	v
 t	P1838.cpp	/^int qb[10]={6,6,6,6,6,6,6,6,6,6},t=-1;$/;"	v
+t	P1855.cpp	/^int m, t;$/;"	v
+t	P1908.cpp	/^int a[500001], t[500001], n;$/;"	v
+t	P1926.cpp	/^int a[10001], b[10001], t[10001], f[10001];$/;"	v
+t	P1969.cpp	/^int ans = 0, last = 0, t;$/;"	v
 t	P2006.cpp	/^double t;$/;"	v
+t	P2068.cpp	/^    ll val, t;$/;"	m	struct:SEG	file:
 t	P2089.cpp	/^int t, ans = 0;$/;"	v
 t	P2192.cpp	/^int n, f = 0, z = 0, t;$/;"	v
 t	P2386.cpp	/^int t, m, n;$/;"	v
 t	P2415.cpp	/^long long sum = 0, n = 0, t;$/;"	v
+t	P2639.cpp	/^int t;$/;"	v
+t	P2651.cpp	/^int a1, a2, a, n, f = 1, t;$/;"	v
 t	P2788.cpp	/^int ans = 0, t;$/;"	v
 t	P2956.cpp	/^int x, y, t;$/;"	v
+t	P3372-2.cpp	/^    long long val, t;$/;"	m	struct:SEG	file:
+t	P3372.cpp	/^    ll val, t;$/;"	m	struct:SEG	file:
+t	P3903.cpp	/^int n, t, last;$/;"	v
 t	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
+t	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
 t	P3984.cpp	/^int n, t;$/;"	v
 t	T42830.cpp	/^int t;$/;"	v
 t1	P1420.cpp	/^int Max = -1, ans, n, t, t1;$/;"	v
@@ -450,31 +1130,58 @@ t2	P2956.cpp	/^int t1, t2, t3, t4, ans = 0;$/;"	v
 t3	P2956.cpp	/^int t1, t2, t3, t4, ans = 0;$/;"	v
 t4	P2956.cpp	/^int t1, t2, t3, t4, ans = 0;$/;"	v
 tall	P2676.cpp	/^int tall[20001], b, n, ans = 0;$/;"	v
+tf	P1981.cpp	/^bool tf = true;$/;"	v
+time_end	P1803.cpp	/^int time_end = -1;$/;"	v
 tmp	P1181.cpp	/^int t, n, m, ans = 1, tmp = 0;$/;"	v
-tmp	P1308.cpp	/^int ans = 0, tmp = 0, p;$/;"	v
 tmp	P1567.cpp	/^int ans = 1, n, last, tmp, Max = -1;$/;"	v
+tmp	P3955.cpp	/^long long b[1001], x[1001], tmp[1001], Size[1001];$/;"	v
 tmp	P3984.cpp	/^int last, tmp, ans;$/;"	v
-toL	P1308.cpp	/^string toL(string t){$/;"	f
+top	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^			pos = {$/;"	p	class:pos
+top	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^(f=e.outerWidth(),g=e.outerHeight())):(c.top=n.y+(n.h-g)*a.topRatio,c.left=n.x+(n.w-f)*a.leftRatio);if("fixed"===b.wrap.css("position")||a.locked)c.top-=n.y,c.left-=n.x;return c={top:x(c.top-h*a.topRatio),left:x(c.left-k*a.leftRatio),width:x(f+k),height:x(g+h)}},step:function(a,d){var e,c,f=d.prop;c=b.current;var g=c.wrapSpace,h=c.skinSpace;if("width"===f||"height"===f)e=d.end===d.start?1:(a-d.start)\/(d.end-d.start),b.isClosing&&(e=1-e),c="width"===f?c.wPadding:c.hPadding,c=a-c,b.skin[f](m("width"===$/;"	p	class:c
+tot	P1908.cpp	/^unsigned long long tot;$/;"	v
+tot	P2640.cpp	/^int prime[100001], is_not_pr[100001], tot = 0;$/;"	v
+tot	asd.cpp	/^int tot=0;$/;"	v
+tree	P3368.cpp	/^int n, m, tree[500001];$/;"	v
+tree	P3374-2.cpp	/^int n, m, tree[500001];$/;"	v
+tree	P3374.cpp	/^int n, m, tree[500001];$/;"	v
 tt1	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+tt___	P1577.cpp	/^double tt___;$/;"	v
+uglify	blog/gulpfile.js	/^var uglify = require('gulp-uglify');$/;"	v
+update	P3368.cpp	/^void update(int x, int k)$/;"	f
+update	P3374.cpp	/^void update(int x, int k)$/;"	f
+used	P1443.cpp	/^bool used[401][401];$/;"	v
+used	P1540.cpp	/^bool used[1001];$/;"	v
 used	P1706.cpp	/^int n, used[15], ans[15];$/;"	v
 used	P2141.cpp	/^int used[100001] = {}, ans = 0, n, a[100001];$/;"	v
 used	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
 v	P1049.cpp	/^int V, n, v[10001], f[10001];$/;"	v
 v	P1060.cpp	/^int n, m, w[30], v[30], f[50001];$/;"	v
 v	P1164.cpp	/^int v[10001],f[10001];$/;"	v
+v	P1474.cpp	/^int v, n;$/;"	v
 v	P1507.cpp	/^int V, M, n, v[51], m[51], k[51], f[501][501];$/;"	v
+v	P1510.cpp	/^int v, n, c;$/;"	v
 v	P1830.cpp	/^int v[111][111],e[111][111];$/;"	v
+v	P2430.cpp	/^int a[5003], f[5003], c[5003], v[5003];$/;"	v
 v	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
+val	P2068.cpp	/^    ll val, t;$/;"	m	struct:SEG	file:
+val	P3372-2.cpp	/^    long long val, t;$/;"	m	struct:SEG	file:
+val	P3372.cpp	/^    ll val, t;$/;"	m	struct:SEG	file:
 value	P1645.cpp	/^int head[5001], nxt[50001], ed[50001], value[50001], cnt = 0;$/;"	v
 value	P1744.cpp	/^double dis[101], value[2001];$/;"	v
 value	P3366.cpp	/^int head[5001], nxt[400001], ed[400001], value[400001], cnt = 0;$/;"	v
 value	P3905.cpp	/^int head[101], nxt[10010], value[10010], ed[10010], cnt = 0, inque[101], s, t, dis[101];$/;"	v
 w	P1060.cpp	/^int n, m, w[30], v[30], f[50001];$/;"	v
+w	P1094.cpp	/^int w, n, ans;$/;"	v
 w	P2347.cpp	/^int a[10], w[10] = {1, 2, 3, 5, 10, 20};$/;"	v
 w	P2871.cpp	/^int n, v, f[15001], i, j, w, m;$/;"	v
+x	CF29A.cpp	/^int a[101], x[101];$/;"	v
+x	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
 x	P1023.cpp	/^int x, n, cost;$/;"	v
 x	P1162.cpp	/^	int x, y;$/;"	m	struct:point	file:
+x	P1359.cpp	/^int f[201],n, x;$/;"	v
+x	P1443.cpp	/^	int x, y, step;$/;"	m	struct:Point	file:
 x	P1534.cpp	/^int s = 0, x, y, sum = 0;$/;"	v
+x	P1563.cpp	/^int n, m, x, y;$/;"	v
 x	P1744.cpp	/^int n, x[101], y[101];$/;"	v
 x	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
 x	P1867.cpp	/^double x = 10, a, b;$/;"	v
@@ -483,10 +1190,19 @@ x	P2956.cpp	/^int x, y, t;$/;"	v
 x	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
 x	P3717.cpp	/^int x[10001], y[10001];$/;"	v
 x	P3742.cpp	/^char x[101], z[101], n;$/;"	v
+x	P3926.cpp	/^long long a, c, p, q, r, x, t;$/;"	v
+x	P3955.cpp	/^long long b[1001], x[1001], tmp[1001], Size[1001];$/;"	v
 x1	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
 x2	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+xg	P1981.cpp	/^char ch = 0, xg;$/;"	v
+xibu	P1051.cpp	/^    char ganbu, xibu;$/;"	m	struct:Per	file:
+xz	asd.cpp	/^int xz,yfs;$/;"	v
+y	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
+y	P1104.cpp	/^    int y, m, d;$/;"	m	struct:Per	file:
 y	P1162.cpp	/^	int x, y;$/;"	m	struct:point	file:
+y	P1443.cpp	/^	int x, y, step;$/;"	m	struct:Point	file:
 y	P1534.cpp	/^int s = 0, x, y, sum = 0;$/;"	v
+y	P1563.cpp	/^int n, m, x, y;$/;"	v
 y	P1744.cpp	/^int n, x[101], y[101];$/;"	v
 y	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
 y	P2239.cpp	/^int n, x, y;$/;"	v
@@ -494,6 +1210,13 @@ y	P2956.cpp	/^int x, y, t;$/;"	v
 y	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
 y	P3717.cpp	/^int x[10001], y[10001];$/;"	v
 y2	P1847.cpp	/^int n, m, x1[10001], tt1[10001], x2[10001], y2[10001], x[10001], y[10001], d[2001], p[2001];$/;"	v
+yfs	asd.cpp	/^int xz,yfs;$/;"	v
+z	P1004.cpp	/^int f[12][12][12][12],a[12][12], n, x, y, z;$/;"	v
 z	P2192.cpp	/^int n, f = 0, z = 0, t;$/;"	v
 z	P3366.cpp	/^int used[5001], dis[5001], n, m, x, y, z;$/;"	v
 z	P3742.cpp	/^char x[101], z[101], n;$/;"	v
+zoomIn	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^		},$/;"	m	class:F.transitions
+zoomIn	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^f?c:c-g*e)),b.inner[f](m("width"===f?c:c-g*e-h*e))},zoomIn:function(){var a=b.current,d=a.pos,e=a.openEffect,c="elastic"===e,l=f.extend({opacity:1},d);delete l.position;c?(d=this.getOrigPosition(),a.openOpacity&&(d.opacity=0.1)):"fade"===e&&(d.opacity=0.1);b.wrap.css(d).animate(l,{duration:"none"===e?0:a.openSpeed,easing:a.openEasing,step:c?this.step:null,complete:b._afterZoomIn})},zoomOut:function(){var a=b.current,d=a.closeEffect,e="elastic"===d,c={opacity:0.1};e&&(c=this.getOrigPosition(),a.closeOpacity&&$/;"	m	class:b.transitions
+zoomOut	blog/themes/landscape/source/fancybox/jquery.fancybox.js	/^		},$/;"	m	class:F.transitions
+zoomOut	blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js	/^f?c:c-g*e)),b.inner[f](m("width"===f?c:c-g*e-h*e))},zoomIn:function(){var a=b.current,d=a.pos,e=a.openEffect,c="elastic"===e,l=f.extend({opacity:1},d);delete l.position;c?(d=this.getOrigPosition(),a.openOpacity&&(d.opacity=0.1)):"fade"===e&&(d.opacity=0.1);b.wrap.css(d).animate(l,{duration:"none"===e?0:a.openSpeed,easing:a.openEasing,step:c?this.step:null,complete:b._afterZoomIn})},zoomOut:function(){var a=b.current,d=a.closeEffect,e="elastic"===d,c={opacity:0.1};e&&(c=this.getOrigPosition(),a.closeOpacity&&$/;"	m	class:b.transitions
+zu	P1757.cpp	/^int f[1001], a[100001], b[10001], cc[10001], c[10001][10001], n, m, zu = 0;$/;"	v
