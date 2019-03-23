@@ -4,10 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include",
-                "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32",
-                "C:/Program Files (x86)/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++",
-                "C:/Program Files (x86)/MinGW64/x86_64-w64-mingw32/include"
+                "C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/mingw32/bits/**"
             ],
             "defines": [
                 "_DEBUG",
@@ -18,7 +15,13 @@
             "compilerPath": "C:/Program Files/LLVM/bin/clang-cl.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "msvc-x64"
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/Program Files/LLVM"
+                ]
+            }
         }
     ],
     "version": 4

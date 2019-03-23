@@ -29,7 +29,7 @@ int n, k;
 int a[1000001];
 int main()
 {
-    redi(n, k);
+    redi(n);
     for(int i = 1; i <= n; i++){
         redi(a[i]);
     }
