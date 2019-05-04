@@ -1,45 +1,45 @@
 #include <bits/stdc++.h>
-int T, M, N, K;
-#define MAX_NUM 55
-int aField[MAX_NUM][MAX_NUM];
+using namespace std;
+struct P
+{
+	int x, y, w, t;
+};
+P	p[401];
+int  n, m, k, _ = 1;
+bool cmp(P a, P b)
+{
+	return a.w > b.w;
+}
+int ans = 0;
 int main()
 {
-	int i, j, t, m, n;
-	scanf("%d", &T);
-	for (t = 0; t < T; t++) {
-		scanf("%d%d%d", &M, &N, &K);
-		for (m = 1; m <= M; m++)
-			for (n = 1; n <= N; n++)
-				scanf("%d", &aField[m][n]);
-		int nTotalPeanuts = 0;
-		int nTotalTime	= 0;
-		int nCuri		  = 0, nCurj;
-		while (nTotalTime < K) {
-			int nMax = 0, nMaxi, nMaxj;
-			for (i = 1; i <= M; i++) {
-				for (j = 1; j <= N; j++) {
-					if (nMax < aField[i][j]) {
-						nMax  = aField[i][j];
-						nMaxi = i;
-						nMaxj = j;
-					}
-				}
-			}
-			if (nMax == 0)
-				break;
-			if (nCuri == 0)
-				nCurj =
-					nMaxj;
+	cin >> n >> m >> k;
+	for (int i = 1; i <= n; i++)
+	{
+		for (int j = 1; j <= m; j++)
+		{
+			int T;
+			cin >> T;
+			if (T > 0)
 			{
-				nTotalTime += 1 + abs(nMaxi - nCuri) + abs(nMaxj - nCurj);
-				nCuri = nMaxi;
-				nCurj = nMaxj;
-				nTotalPeanuts += aField[nMaxi][nMaxj];
-				aField[nMaxi][nMaxj] = 0;
+				p[_].x = i;
+				p[_].y = j;
+				p[_].t = 0;
+				p[_].w = T;
+				_++;
 			}
-			else break;
 		}
-		printf("%d\n", nTotalPeanuts);
 	}
+	sort(p + 1, p + 1 + _, cmp);
+	for (int i = 1; i <= _; i++)
+	{
+		if (i == 1)
+			p[i].t = p[i].x + 1;
+		else
+			p[i].t = p[i - 1].t + abs(p[i].x - p[i - 1].x) +
+					 abs(p[i].y - p[i - 1].y) + 1;
+		if (p[i].t + p[i].x <= k) ans += p[i].w;
+	}
+	cout << ans << endl;
 	return 0;
 }
